@@ -2,50 +2,47 @@
 
 > Ref: <https://github.com/johnalanwoods/maintained-modern-unix>
 
-| Basic Tool Name | Type (CLI/TUI/GUI) | Note                         | Installation |
-| --------------- | ------------------ | ---------------------------- | ------------ |
-| `nmtui`         | TUI                | Network                      |              |
-| `brightnessctl` | CLI                | Brightness                   |              |
-| `redshift`      | CLI                | Brightness                   |              |
-| `bluetuith`     | TUI                | Bluetooth                    |              |
-| `xrandr`        | CLI                | Monitor control              |              |
-| `arandr`        | GUI                | Monitor control              |              |
-| `termscp`       | TUI                | SFTP in terminal             |              |
-| `nvtop`         | TUI                | Check GPU status in terminal |              |
-| `ncdu`          | TUI                | Check disk usage             |              |
-| `htop`          | TUI                | Check system status          |              |
-| `feh`           | TUI                | For desktop wallpaper        |              |
-| `picom`         | TUI                | Window transparent           |              |
-| `flameshot`     | GUI                | Image capture                |              |
-| `dunst`         | CLI                | Show notification            |              |
-| `udiskie`       | GUI                | USB mount                    |              |
-| `tlp`           | CLI                | Power saver                  |              |
-| `lxappearance`  | GUI                | GTK theme changer            |              |
+| Basic Tool Name | Type (CLI/TUI/GUI) | Note                         | Link                                           |
+| --------------- | ------------------ | ---------------------------- | ---------------------------------------------- |
+| `nmtui`         | TUI                | Network                      | <https://man.archlinux.org/man/nmtui.1>        |
+| `brightnessctl` | CLI                | Brightness                   | <https://github.com/Hummer12007/brightnessctl> |
+| `redshift`      | CLI                | Brightness                   | <https://github.com/jonls/redshift>            |
+| `bluetuith`     | TUI                | Bluetooth                    | <https://github.com/bluetuith-org/bluetuith>   |
+| `xrandr`        | CLI                | Monitor control              | <https://man.archlinux.org/man/xrandr.1>       |
+| `arandr`        | GUI                | Monitor control              | <https://github.com/haad/arandr>               |
+| `termscp`       | TUI                | SFTP in terminal             | <https://github.com/veeso/termscp>             |
+| `nvtop`         | TUI                | Check GPU status in terminal | <https://github.com/Syllo/nvtop>               |
+| `ncdu`          | TUI                | Check disk usage             | <https://man.archlinux.org/man/ncdu.1>         |
+| `bottom`        | TUI                | Check system status          | <https://github.com/ClementTsang/bottom>       |
+| `feh`           | TUI                | For desktop wallpaper        | <https://github.com/derf/feh>                  |
+| `picom`         | TUI                | Window transparent           | <https://github.com/yshui/picom>               |
+| `flameshot`     | GUI                | Image capture                | <https://github.com/flameshot-org/flameshot>   |
+| `dunst`         | CLI                | Show notification            | <https://github.com/dunst-project/dunst>       |
+| `udiskie`       | GUI                | USB mount                    | <https://github.com/coldfix/udiskie>           |
+| `tlp`           | CLI                | Power saver                  | <https://github.com/linrunner/TLP>             |
+| `lxappearance`  | GUI                | GTK theme changer            | <https://github.com/lxde/lxappearance>         |
 
-| Other Tool Name                                               | Type (CLI/TUI/GUI) | Note                                          | Installation |
-| ------------------------------------------------------------- | ------------------ | --------------------------------------------- | ------------ |
-| `bluetoothctl`                                                | CLI                | Bluetooth                                     |              |
-| `img2pdf`                                                     | CLI                | Image to PDF, for Latex                       |              |
-| `pdf2svg`                                                     | CLI                | PDF to SVG, for Typst                         |              |
-| `qrcp`                                                        | CLI                | File transfer                                 |              |
-| [`carbonyl`](https://github.com/fathyb/carbonyl)              | TUI                | Browser in terminal                           | By npm       |
-| `surf`                                                        | GUI                | Lightweight browser                           |              |
-| [`trans`](https://github.com/soimort/translate-shell)         | CLI                | Language translate                            |              |
-| `shell_gpt`                                                   | CLI                | GPT in shell                                  |              |
-| `frp`                                                         | CLI                | Proxy forward                                 |              |
-| `bottom`                                                      | TUI                | Check system status                           |              |
-| [`crlf2lf`](https://github.com/XadillaX/node-crlf2lf)         | CLI                | Change file ending                            |              |
-| `zathura`                                                     | GUI                | PDF Viewer                                    |              |
-| `chafa`                                                       | CLI                | Terminal image renderer                       |              |
-| [`gh2md`](https://github.com/mattduck/gh2md)                  | CLI                | Export github issues                          |              |
-| [`tldraw`](https://github.com/tldraw/tldraw)                  | GUI                | Whiteboard                                    |              |
-| [`wechat`](https://github.com/web1n/wechat-universal-flatpak) | GUI                | Official WeChat (but with unofficial flatpak) |              |
-| [`qq`](https://im.qq.com/linuxqq/index.shtml)                 | GUI                | Official QQ                                   |              |
-| `gh`                                                          | CLI                | Official Github CLI                           | By brew      |
-| `color-picker`                                                | GUI                | Color picker                                  | By apt       |
-| `trzsz`                                                       | CLI                | lrzsz for tmux                                | By brew      |
-| `mycli`                                                       | CLI                | mysql                                         | By brew      |
-| `gh-dash`                                                     | TUI                | github                                        | By gh        |
+| Other Tool Name | Type (CLI/TUI/GUI) | Note                             | Link                                                |
+| --------------- | ------------------ | -------------------------------- | --------------------------------------------------- |
+| `bluetoothctl`  | CLI                | Bluetooth                        | <https://man.archlinux.org/man/bluetoothctl.1>      |
+| `img2pdf`       | CLI                | Image to PDF, for Latex          | <https://github.com/josch/img2pdf>                  |
+| `pdf2svg`       | CLI                | PDF to SVG, for Typst            | <https://github.com/dawbarton/pdf2svg>              |
+| `qrcp`          | CLI                | File transfer                    | <https://github.com/claudiodangelis/qrcp>           |
+| `carbonyl`      | TUI                | Browser in terminal              | <https://github.com/fathyb/carbonyl>                |
+| `surf`          | GUI                | Lightweight browser              | <https://surf.suckless.org/>                        |
+| `trans`         | CLI                | Language translate               | <https://github.com/soimort/translate-shell>        |
+| `htop`          | TUI                | Check system status              | <https://github.com/htop-dev/htop>                  |
+| `crlf2lf`       | CLI                | Change file ending               | <https://github.com/XadillaX/node-crlf2lf>          |
+| `zathura`       | GUI                | PDF Viewer                       | <https://github.com/pwmt/zathura>                   |
+| `chafa`         | CLI                | Terminal image renderer          | <https://github.com/hpjansson/chafa>                |
+| `tldraw`        | GUI                | Whiteboard                       | <https://github.com/tldraw/tldraw>                  |
+| `wechat`        | GUI                | WeChat (with unofficial flatpak) | <https://github.com/web1n/wechat-universal-flatpak> |
+| `qq`            | GUI                | Official QQ                      | <https://im.qq.com/linuxqq/index.shtml>             |
+| `gh`            | CLI                | Official Github CLI              | <https://github.com/cli/cli>                        |
+| `gh-dash`       | TUI                | github dashboard                 | <https://github.com/dlvhdr/gh-dash>                 |
+| `color-picker`  | GUI                | Color picker                     | <https://github.com/keshavbhatt/ColorPicker>        |
+| `mycli`         | CLI                | mysql                            | <https://github.com/dbcli/mycli>                    |
+| `go-grip`       | CLI                | markdown previewer               | <https://github.com/chrishrb/go-grip>               |
 
 ## Brightness
 
