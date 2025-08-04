@@ -1,5 +1,7 @@
 # colima
 
+> Ref: <https://github.com/carljmosca/colima/blob/main/docs/FAQ.md>
+
 ## Basic usage
 
 - Global settings
@@ -43,8 +45,8 @@
 > Ref: <https://github.com/abiosoft/colima/issues/83#issuecomment-2646053621>
 
 ```diff
---- /Users/songliyu/.config/colima/_templates/default.yaml	2025-07-20 21:16:46
-+++ /Users/songliyu/.config/colima/default/colima.yaml	2025-07-20 21:17:27
+--- /Users/songliyu/.config/colima/_templates/default.yaml 2025-07-20 21:16:46
++++ /Users/songliyu/.config/colima/default/colima.yaml 2025-07-20 21:17:27
 @@ -122,7 +122,7 @@
  #
  # NOTE: value cannot be changed after virtual machine is created.
