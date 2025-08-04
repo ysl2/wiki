@@ -31,6 +31,7 @@ docker-compose
 fastfetch
 fzf
 gemini-cli
+glow
 gnu-sed
 go
 kind
