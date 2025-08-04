@@ -30,3 +30,9 @@
   autossh -M 37009 -NfR 47.xxx.xxx.227:38009:localhost:36009 -p 36000 yusongli@47.xxx.xxx.227
   autossh -M 37010 -NfR 47.xxx.xxx.227:38010:localhost:36010 -p 36000 yusongli@47.xxx.xxx.227
   ```
+
+- ttyd
+
+  ```bash
+  autossh -M 37011 -NfR 47.xxx.xxx.227:38011:localhost:36011 -p 36000 yusongli@47.xxx.xxx.227
+  ```
