@@ -3,7 +3,6 @@
 | URL                                       | Description |
 | ----------------------------------------- | ----------- |
 | <https://github.com/ysl2/blog>            |             |
-| <https://github.com/ysl2/scripts>         |             |
 | <https://github.com/ysl2/dotfiles>        |             |
 | <https://github.com/ysl2/dotlinks>        |             |
 | <https://github.com/ysl2/lazyvim>         |             |
