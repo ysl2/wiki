@@ -1,5 +1,21 @@
 # golang
 
+## Installation
+
+```bash
+#!/bin/bash
+
+GO_VERSION=1.24.0
+PREFIX="$HOME"/.vocal
+
+cd /tmp
+wget -c https://go.dev/dl/go"$GO_VERSION".linux-amd64.tar.gz
+tar xvf go"$GO_VERSION".linux-amd64.tar.gz
+mv go "$PREFIX"/golang
+```
+
+## Usage
+
 1. Build runfile with no C dependencies, and enable debug symbols:
 
    ```bash
