@@ -2,55 +2,32 @@
 
 > Ref: <https://github.com/johnalanwoods/maintained-modern-unix>
 
-| Basic Tool Name | Type (CLI/TUI/GUI) | Note                         | Link                                           |
-| --------------- | ------------------ | ---------------------------- | ---------------------------------------------- |
-| `nmtui`         | TUI                | Network                      | <https://man.archlinux.org/man/nmtui.1>        |
-| `brightnessctl` | CLI                | Brightness                   | <https://github.com/Hummer12007/brightnessctl> |
-| `redshift`      | CLI                | Brightness                   | <https://github.com/jonls/redshift>            |
-| `bluetuith`     | TUI                | Bluetooth                    | <https://github.com/bluetuith-org/bluetuith>   |
-| `xrandr`        | CLI                | Monitor control              | <https://man.archlinux.org/man/xrandr.1>       |
-| `arandr`        | GUI                | Monitor control              | <https://github.com/haad/arandr>               |
-| `termscp`       | TUI                | SFTP in terminal             | <https://github.com/veeso/termscp>             |
-| `nvtop`         | TUI                | Check GPU status in terminal | <https://github.com/Syllo/nvtop>               |
-| `ncdu`          | TUI                | Check disk usage             | <https://man.archlinux.org/man/ncdu.1>         |
-| `bottom`        | TUI                | Check system status          | <https://github.com/ClementTsang/bottom>       |
-| `feh`           | TUI                | For desktop wallpaper        | <https://github.com/derf/feh>                  |
-| `picom`         | TUI                | Window transparent           | <https://github.com/yshui/picom>               |
-| `flameshot`     | GUI                | Image capture                | <https://github.com/flameshot-org/flameshot>   |
-| `dunst`         | CLI                | Show notification            | <https://github.com/dunst-project/dunst>       |
-| `udiskie`       | GUI                | USB mount                    | <https://github.com/coldfix/udiskie>           |
-| `tlp`           | CLI                | Power saver                  | <https://github.com/linrunner/TLP>             |
-| `lxappearance`  | GUI                | GTK theme changer            | <https://github.com/lxde/lxappearance>         |
+## Common
 
-| Other Tool Name | Type (CLI/TUI/GUI) | Note                             | Link                                                |
-| --------------- | ------------------ | -------------------------------- | --------------------------------------------------- |
-| `bluetoothctl`  | CLI                | Bluetooth                        | <https://man.archlinux.org/man/bluetoothctl.1>      |
-| `img2pdf`       | CLI                | Image to PDF, for Latex          | <https://github.com/josch/img2pdf>                  |
-| `pdf2svg`       | CLI                | PDF to SVG, for Typst            | <https://github.com/dawbarton/pdf2svg>              |
-| `qrcp`          | CLI                | File transfer                    | <https://github.com/claudiodangelis/qrcp>           |
-| `carbonyl`      | TUI                | Browser in terminal              | <https://github.com/fathyb/carbonyl>                |
-| `trans`         | CLI                | Language translate               | <https://github.com/soimort/translate-shell>        |
-| `chafa`         | CLI                | Terminal image renderer          | <https://github.com/hpjansson/chafa>                |
-| `wechat`        | GUI                | WeChat (with unofficial flatpak) | <https://github.com/web1n/wechat-universal-flatpak> |
-| `qq`            | GUI                | Official QQ                      | <https://im.qq.com/linuxqq/index.shtml>             |
-| `gh`            | CLI                | Official Github CLI              | <https://github.com/cli/cli>                        |
-| `gh-dash`       | TUI                | Github dashboard                 | <https://github.com/dlvhdr/gh-dash>                 |
-| `color-picker`  | GUI                | Color picker                     | <https://github.com/keshavbhatt/ColorPicker>        |
-| `mycli`         | CLI                | MySQL                            | <https://github.com/dbcli/mycli>                    |
-| `go-grip`       | GUI                | Markdown previewer               | <https://github.com/chrishrb/go-grip>               |
-| `glow`          | TUI                | Markdown previewer               | <https://github.com/charmbracelet/glow>             |
+| Basic Tool Name | Platform          | Type | Note                         | Link                                     |
+| --------------- | ----------------- | ---- | ---------------------------- | ---------------------------------------- |
+| `redshift`      | Linux/Mac/Windows | CLI  | Brightness                   | <https://github.com/jonls/redshift>      |
+| `termscp`       | Linux/Mac/Windows | TUI  | SFTP in terminal             | <https://github.com/veeso/termscp>       |
+| `bottom`        | Linux/Mac/Windows | TUI  | Check system status          | <https://github.com/ClementTsang/bottom> |
+| `snipaste`      | Linux/Mac/Windows | GUI  | Image capture                | <https://www.snipaste.com>               |
+| `nvtop`         | Linux/Mac         | TUI  | Check GPU status in terminal | <https://github.com/Syllo/nvtop>         |
+| `ncdu`          | Linux/Mac         | TUI  | Check disk usage             | <https://man.archlinux.org/man/ncdu.1>   |
 
-## Brightness
+| Other Tool Name | Platform          | Type | Note                    | Link                                                                                 |
+| --------------- | ----------------- | ---- | ----------------------- | ------------------------------------------------------------------------------------ |
+| `flameshot`     | Linux/Mac/Windows | GUI  | Image capture           | <https://github.com/flameshot-org/flameshot>                                         |
+| `img2pdf`       | Linux/Mac/Windows | CLI  | Image to PDF, for Latex | <https://github.com/josch/img2pdf>                                                   |
+| `pdf2svg`       | Linux/Mac/Windows | CLI  | PDF to SVG, for Typst   | <https://github.com/dawbarton/pdf2svg> / <https://github.com/jalios/pdf2svg-windows> |
+| `qrcp`          | Linux/Mac/Windows | CLI  | File transfer           | <https://github.com/claudiodangelis/qrcp>                                            |
+| `glow`          | Linux/Mac/Windows | TUI  | Markdown previewer      | <https://github.com/charmbracelet/glow>                                              |
+| `carbonyl`      | Linux/Mac         | TUI  | Browser in terminal     | <https://github.com/fathyb/carbonyl>                                                 |
+| `trans`         | Linux/Mac         | CLI  | Language translate      | <https://github.com/soimort/translate-shell>                                         |
+| `chafa`         | Linux/Mac         | CLI  | Terminal image renderer | <https://github.com/hpjansson/chafa>                                                 |
+| `gh`            | Linux/Mac         | CLI  | Official Github CLI     | <https://github.com/cli/cli>                                                         |
+| `gh-dash`       | Linux/Mac         | TUI  | Github dashboard        | <https://github.com/dlvhdr/gh-dash>                                                  |
+| `mycli`         | Linux/Mac         | CLI  | MySQL                   | <https://github.com/dbcli/mycli>                                                     |
 
-```bash
-#  Increase by 3%
-brightnessctl set 3%+
-
-# decrease by 3%
-brightnessctl set 3%-
-```
-
-## redshift
+### redshift
 
 ```bash
 # install
@@ -61,9 +38,56 @@ redshift -P -O 4500K
 redshift -x
 ```
 
-## Bluetooth: bluetoothctl
+### img2pdf
 
+```bash
+pip install img2pdf
+
+img2pdf *.jpg -o output.pdf
 ```
+
+### pdf2svg
+
+```bash
+sudo apt install pdf2svg
+```
+
+## Linux specific
+
+| Basic Tool Name | Platform | Type | Note                  | Link                                           |
+| --------------- | -------- | ---- | --------------------- | ---------------------------------------------- |
+| `nmtui`         | Linux    | TUI  | Network               | <https://man.archlinux.org/man/nmtui.1>        |
+| `brightnessctl` | Linux    | CLI  | Brightness            | <https://github.com/Hummer12007/brightnessctl> |
+| `bluetuith`     | Linux    | TUI  | Bluetooth             | <https://github.com/bluetuith-org/bluetuith>   |
+| `xrandr`        | Linux    | CLI  | Monitor control       | <https://man.archlinux.org/man/xrandr.1>       |
+| `arandr`        | Linux    | GUI  | Monitor control       | <https://github.com/haad/arandr>               |
+| `feh`           | Linux    | TUI  | For desktop wallpaper | <https://github.com/derf/feh>                  |
+| `picom`         | Linux    | TUI  | Window transparent    | <https://github.com/yshui/picom>               |
+| `dunst`         | Linux    | CLI  | Show notification     | <https://github.com/dunst-project/dunst>       |
+| `udiskie`       | Linux    | GUI  | USB mount             | <https://github.com/coldfix/udiskie>           |
+| `tlp`           | Linux    | CLI  | Power saver           | <https://github.com/linrunner/TLP>             |
+| `lxappearance`  | Linux    | GUI  | GTK theme changer     | <https://github.com/lxde/lxappearance>         |
+
+| Other Tool Name | Platform | Type | Note                             | Link                                                |
+| --------------- | -------- | ---- | -------------------------------- | --------------------------------------------------- |
+| `bluetoothctl`  | Linux    | CLI  | Bluetooth                        | <https://man.archlinux.org/man/bluetoothctl.1>      |
+| `wechat`        | Linux    | GUI  | WeChat (with unofficial flatpak) | <https://github.com/web1n/wechat-universal-flatpak> |
+| `qq`            | Linux    | GUI  | Official QQ                      | <https://im.qq.com/linuxqq/index.shtml>             |
+| `color-picker`  | Linux    | GUI  | Color picker                     | <https://github.com/keshavbhatt/ColorPicker>        |
+
+### brightnessctl
+
+```bash
+#  Increase by 3%
+brightnessctl set 3%+
+
+# decrease by 3%
+brightnessctl set 3%-
+```
+
+### bluetoothctl
+
+```text
 要使用 bluetoothctl 连接蓝牙设备，您可以按照以下步骤进行操作：
 
 打开终端并输入 bluetoothctl 进入蓝牙控制台。
@@ -87,27 +111,11 @@ redshift -x
 请注意，上述步骤中的 <device MAC> 是要连接的蓝牙设备的 MAC 地址。您可以在扫描步骤中获取它。此外，根据设备的类型和要求，可能还需要进行其他步骤。如果您遇到任何问题，请参考蓝牙设备的用户手册或官方文档，以获取更详细的指导。
 ```
 
-## Convert image format
-
-img -> pdf
-
-```bash
-pip install img2pdf
-
-img2pdf *.jpg -o output.pdf
-```
-
-pdf -> svg
-
-```bash
-sudo apt install pdf2svg
-```
-
-## Audio: alsamixer
+### alsamixer
 
 For headphone settings:
 
-<img src=".assets/[common]-CLI-TUI-GUI-tools/img/2025-07-13-11-44-36.png" alt="" width=100%>
+<img src=".assets/[common]-Home/img/2025-07-13-11-44-36.png" alt="" width=100%>
 
 Or amixer
 
