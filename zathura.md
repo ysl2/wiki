@@ -70,6 +70,6 @@ map k feedkeys "<C-Up>"
 set font 'monospace normal 20'
 ```
 
-## Pretend Single Page Mode
+## Pretend to be single page mode
 
 Press `a` to fit the screen, then use `J` and `K` to scroll. Press `d` to reset the position.
