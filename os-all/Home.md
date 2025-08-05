@@ -4,16 +4,16 @@
 
 ## Common
 
-| URL                                       |
-| ----------------------------------------- |
-| <https://github.com/ysl2/blog>            |
-| <https://github.com/ysl2/dotfiles>        |
-| <https://github.com/ysl2/dotlinks>        |
-| <https://github.com/ysl2/lazyvim>         |
-| <https://github.com/ysl2/i3>              |
-| <https://github.com/ysl2/alacritty-sixel> |
+| URL                                       | Platform          |
+| ----------------------------------------- | ----------------- |
+| <https://github.com/ysl2/blog>            | Linux/Mac/Windows |
+| <https://github.com/ysl2/dotfiles>        | Linux/Mac/Windows |
+| <https://github.com/ysl2/alacritty-sixel> | Linux/Mac/Windows |
+| <https://github.com/ysl2/lazyvim>         | Linux/Mac         |
+| <https://github.com/ysl2/dotlinks>        | Mac/Windows       |
+| <https://github.com/ysl2/i3>              | Linux             |
 
-| Basic Tool Name | Platform          | Type | Note                         | Link                                     |
+| Basic Tool Name | Platform          | Type | Note                         | URL                                      |
 | --------------- | ----------------- | ---- | ---------------------------- | ---------------------------------------- |
 | `redshift`      | Linux/Mac/Windows | CLI  | Brightness                   | <https://github.com/jonls/redshift>      |
 | `termscp`       | Linux/Mac/Windows | TUI  | SFTP in terminal             | <https://github.com/veeso/termscp>       |
@@ -22,7 +22,7 @@
 | `nvtop`         | Linux/Mac         | TUI  | Check GPU status in terminal | <https://github.com/Syllo/nvtop>         |
 | `ncdu`          | Linux/Mac         | TUI  | Check disk usage             | <https://man.archlinux.org/man/ncdu.1>   |
 
-| Other Tool Name | Platform          | Type | Note                    | Link                                                                                 |
+| Other Tool Name | Platform          | Type | Note                    | URL                                                                                  |
 | --------------- | ----------------- | ---- | ----------------------- | ------------------------------------------------------------------------------------ |
 | `flameshot`     | Linux/Mac/Windows | GUI  | Image capture           | <https://github.com/flameshot-org/flameshot>                                         |
 | `img2pdf`       | Linux/Mac/Windows | CLI  | Image to PDF, for Latex | <https://github.com/josch/img2pdf>                                                   |
@@ -63,7 +63,7 @@ sudo apt install pdf2svg
 
 ## Linux specific
 
-| Basic Tool Name | Platform | Type | Note                  | Link                                           |
+| Basic Tool Name | Platform | Type | Note                  | URL                                            |
 | --------------- | -------- | ---- | --------------------- | ---------------------------------------------- |
 | `nmtui`         | Linux    | TUI  | Network               | <https://man.archlinux.org/man/nmtui.1>        |
 | `brightnessctl` | Linux    | CLI  | Brightness            | <https://github.com/Hummer12007/brightnessctl> |
@@ -77,7 +77,7 @@ sudo apt install pdf2svg
 | `tlp`           | Linux    | CLI  | Power saver           | <https://github.com/linrunner/TLP>             |
 | `lxappearance`  | Linux    | GUI  | GTK theme changer     | <https://github.com/lxde/lxappearance>         |
 
-| Other Tool Name | Platform | Type | Note                             | Link                                                |
+| Other Tool Name | Platform | Type | Note                             | URL                                                 |
 | --------------- | -------- | ---- | -------------------------------- | --------------------------------------------------- |
 | `bluetoothctl`  | Linux    | CLI  | Bluetooth                        | <https://man.archlinux.org/man/bluetoothctl.1>      |
 | `wechat`        | Linux    | GUI  | WeChat (with unofficial flatpak) | <https://github.com/web1n/wechat-universal-flatpak> |
