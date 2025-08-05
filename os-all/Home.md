@@ -4,6 +4,15 @@
 
 ## Common
 
+| URL                                       |
+| ----------------------------------------- |
+| <https://github.com/ysl2/blog>            |
+| <https://github.com/ysl2/dotfiles>        |
+| <https://github.com/ysl2/dotlinks>        |
+| <https://github.com/ysl2/lazyvim>         |
+| <https://github.com/ysl2/i3>              |
+| <https://github.com/ysl2/alacritty-sixel> |
+
 | Basic Tool Name | Platform          | Type | Note                         | Link                                     |
 | --------------- | ----------------- | ---- | ---------------------------- | ---------------------------------------- |
 | `redshift`      | Linux/Mac/Windows | CLI  | Brightness                   | <https://github.com/jonls/redshift>      |
