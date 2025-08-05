@@ -1,4 +1,4 @@
-# [research] Home
+# [study-ai] Home
 
 ## Resources
 
