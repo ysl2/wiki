@@ -1,4 +1,4 @@
-# [windows] Home
+# [os-win] Home
 
 ## Installation on Windows
 
@@ -153,15 +153,15 @@ source ~/.bashrc
 
 ## 解决中英文输入法问题
 
-<img src=".assets/[windows]-Home/img/2025-07-13-11-06-52.png" alt="" width=100%>
+<img src=".assets/[os-win]-Home/img/2025-07-13-11-06-52.png" alt="" width=100%>
 
-<img src=".assets/[windows]-Home/img/2025-07-13-11-07-29.png" alt="" width=100%>
+<img src=".assets/[os-win]-Home/img/2025-07-13-11-07-29.png" alt="" width=100%>
 
-<img src=".assets/[windows]-Home/img/2025-07-13-11-07-53.png" alt="" width=100%>
+<img src=".assets/[os-win]-Home/img/2025-07-13-11-07-53.png" alt="" width=100%>
 
 ## Cursor speed
 
-<img src=".assets/[windows]-Home/img/2025-07-13-11-08-15.png" alt="" width=100%>
+<img src=".assets/[os-win]-Home/img/2025-07-13-11-08-15.png" alt="" width=100%>
 
 ## Windows disable WIN+L
 
