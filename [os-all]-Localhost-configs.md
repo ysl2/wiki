@@ -185,7 +185,7 @@ PP() {
 - `~/.config/termscp/config.toml`
 - `/Users/yusongli/Library/Application Support/termscp/config.toml`
 
-```
+```toml
 [user_interface]
 text_editor = "/opt/homebrew/bin/nvim"
 default_protocol = "SFTP"
