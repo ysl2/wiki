@@ -29,20 +29,16 @@
 | `pdf2svg`       | CLI                | PDF to SVG, for Typst            | <https://github.com/dawbarton/pdf2svg>              |
 | `qrcp`          | CLI                | File transfer                    | <https://github.com/claudiodangelis/qrcp>           |
 | `carbonyl`      | TUI                | Browser in terminal              | <https://github.com/fathyb/carbonyl>                |
-| `surf`          | GUI                | Lightweight browser              | <https://surf.suckless.org/>                        |
 | `trans`         | CLI                | Language translate               | <https://github.com/soimort/translate-shell>        |
-| `htop`          | TUI                | Check system status              | <https://github.com/htop-dev/htop>                  |
-| `crlf2lf`       | CLI                | Change file ending               | <https://github.com/XadillaX/node-crlf2lf>          |
-| `zathura`       | GUI                | PDF Viewer                       | <https://github.com/pwmt/zathura>                   |
 | `chafa`         | CLI                | Terminal image renderer          | <https://github.com/hpjansson/chafa>                |
-| `tldraw`        | GUI                | Whiteboard                       | <https://github.com/tldraw/tldraw>                  |
 | `wechat`        | GUI                | WeChat (with unofficial flatpak) | <https://github.com/web1n/wechat-universal-flatpak> |
 | `qq`            | GUI                | Official QQ                      | <https://im.qq.com/linuxqq/index.shtml>             |
 | `gh`            | CLI                | Official Github CLI              | <https://github.com/cli/cli>                        |
-| `gh-dash`       | TUI                | github dashboard                 | <https://github.com/dlvhdr/gh-dash>                 |
+| `gh-dash`       | TUI                | Github dashboard                 | <https://github.com/dlvhdr/gh-dash>                 |
 | `color-picker`  | GUI                | Color picker                     | <https://github.com/keshavbhatt/ColorPicker>        |
-| `mycli`         | CLI                | mysql                            | <https://github.com/dbcli/mycli>                    |
-| `go-grip`       | CLI                | markdown previewer               | <https://github.com/chrishrb/go-grip>               |
+| `mycli`         | CLI                | MySQL                            | <https://github.com/dbcli/mycli>                    |
+| `go-grip`       | GUI                | Markdown previewer               | <https://github.com/chrishrb/go-grip>               |
+| `glow`          | TUI                | Markdown previewer               | <https://github.com/charmbracelet/glow>             |
 
 ## Brightness
 
