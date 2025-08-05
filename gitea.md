@@ -5,9 +5,9 @@
 
 ```bash
 # If in Inner machine:
-autossh -M 37001 -NfR 47.xxx.xxx.227:38001:localhost:36001 -p 36000 yusongli@47.xxx.xxx.227
-autossh -M 37002 -NfR 47.xxx.xxx.227:38002:localhost:36002 -p 36000 yusongli@47.xxx.xxx.227
-autossh -M 37003 -NfR 47.xxx.xxx.227:38003:localhost:36003 -p 36000 yusongli@47.xxx.xxx.227
+autossh -M 37001 -NfR 47.xxx.xxx.227:38001:localhost:36001 -p 36000 gongwang@47.xxx.xxx.227
+autossh -M 37002 -NfR 47.xxx.xxx.227:38002:localhost:36002 -p 36000 gongwang@47.xxx.xxx.227
+autossh -M 37003 -NfR 47.xxx.xxx.227:38003:localhost:36003 -p 36000 gongwang@47.xxx.xxx.227
 vim docker-compose.yml
 # Change `GITEA__server__SSH_PORT=36002` to `GITEA__server__SSH_PORT=38002`
 
