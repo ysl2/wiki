@@ -1,4 +1,4 @@
-# [mac] Known issues & New features
+# [os-mac] Known issues & New features
 
 ## System Settings
 
