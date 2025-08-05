@@ -72,6 +72,11 @@ _G.localhost.OPENAI_API_KEY = "sk-xxxxx"
 _G.localhost.OPENAI_API_URL = "https://api.siliconflow.cn/v1"
 _G.localhost.OPENAI_MODEL = "moonshotai/Kimi-K2-Instruct"
 _G.localhost.OPENAI_MODEL_EMBED = "Qwen/Qwen3-Embedding-0.6B"
+
+-- Ref: https://github.com/iamcco/markdown-preview.nvim/pull/9#issuecomment-1862152459
+vim.g.mkdp_port = "36012"
+-- vim.g.mkdp_open_ip = "127.0.0.1" -- Optional
+-- vim.g.mkdp_browser = "none"  -- Optional, but recommend for server machine.
 ```
 
 ---
