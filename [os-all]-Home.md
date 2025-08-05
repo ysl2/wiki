@@ -1,4 +1,4 @@
-# [common] Home
+# [os-all] Home
 
 > Ref: <https://github.com/johnalanwoods/maintained-modern-unix>
 
@@ -115,7 +115,7 @@ brightnessctl set 3%-
 
 For headphone settings:
 
-<img src=".assets/[common]-Home/img/2025-07-13-11-44-36.png" alt="" width=100%>
+<img src=".assets/[os-all]-Home/img/2025-07-13-11-44-36.png" alt="" width=100%>
 
 Or amixer
 
