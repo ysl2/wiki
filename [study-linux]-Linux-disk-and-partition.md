@@ -1,4 +1,4 @@
-# Linux disk and partition
+# [study-linux] Linux disk and partition
 
 ## Format new disk and create single and full partition
 
