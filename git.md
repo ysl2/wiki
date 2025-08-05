@@ -37,6 +37,17 @@
 
 ## CRLF to LF
 
+### crlf2lf
+
+> Ref: https://github.com/XadillaX/node-crlf2lf
+
+```bash
+npm install -g crlf2lf
+crlf2lf -r .
+```
+
+### dos2unix
+
 - For Linux/macOS:
 
   ```bash
