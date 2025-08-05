@@ -1,7 +1,7 @@
 # gitea
 
 > [!NOTE]
-> [assets/gitea](assets/gitea)
+> [.assets/gitea](.assets/gitea)
 
 ```bash
 # If in Inner machine:

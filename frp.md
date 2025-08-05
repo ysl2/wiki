@@ -1,11 +1,9 @@
 # frp
 
 > [!NOTE]
-> [assets/frp](assets/frp)
+> [.assets/frp](.assets/frp)
 
 ## Deploy by self-hosted
-
-<!--Refer to [assets/frp](assets/frp)-->
 
 按照官网的教程来
 

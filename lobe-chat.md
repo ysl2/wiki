@@ -53,7 +53,7 @@ Go to Identity -> Applications, select the `lobechat` and `app-built-in` applica
 
 把这里换成siliconflow的key和proxy，用于embedding模型
 
-<img src="assets/lobe-chat/img/2025-07-06-12-05-53.png" alt="" width=100%>
+<img src=".assets/lobe-chat/img/2025-07-06-12-05-53.png" alt="" width=100%>
 
 关键的`.env`配置如下:
 
