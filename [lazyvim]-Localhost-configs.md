@@ -1,7 +1,6 @@
 # [lazyvim] Localhost configs
 
 ```diff
-```diff
 diff --git a/init.lua b/init.lua
 index d62b291..4b94e92 100644
 --- a/init.lua
