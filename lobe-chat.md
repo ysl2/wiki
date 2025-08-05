@@ -35,12 +35,12 @@ cd lobe-chat/docker-compose/local
 bash setup.sh
 # Select the second option: Port mode, enter the public ip like `47.xxx.xxx.227`.
 
-autossh -M 37004 -NfR 47.xxx.xxx.227:38004:localhost:36004 -p 36000 yusongli@47.xxx.xxx.227
-autossh -M 37005 -NfR 47.xxx.xxx.227:38005:localhost:36005 -p 36000 yusongli@47.xxx.xxx.227
-autossh -M 37006 -NfR 47.xxx.xxx.227:38006:localhost:36006 -p 36000 yusongli@47.xxx.xxx.227
+autossh -M 37004 -NfR 47.xxx.xxx.227:38004:localhost:36004 -p 36000 gongwang@47.xxx.xxx.227
+autossh -M 37005 -NfR 47.xxx.xxx.227:38005:localhost:36005 -p 36000 gongwang@47.xxx.xxx.227
+autossh -M 37006 -NfR 47.xxx.xxx.227:38006:localhost:36006 -p 36000 gongwang@47.xxx.xxx.227
 # NOTE: No need for 36007 and 36008, they are not used for public.
-# autossh -M 37007 -NfR 47.xxx.xxx.227:38007:localhost:36007 -p 36000 yusongli@47.xxx.xxx.227
-# autossh -M 37008 -NfR 47.xxx.xxx.227:38008:localhost:36008 -p 36000 yusongli@47.xxx.xxx.227
+# autossh -M 37007 -NfR 47.xxx.xxx.227:38007:localhost:36007 -p 36000 gongwang@47.xxx.xxx.227
+# autossh -M 37008 -NfR 47.xxx.xxx.227:38008:localhost:36008 -p 36000 gongwang@47.xxx.xxx.227
 
 docker compose up -d
 # Get username and password, use `cat setup.log`
