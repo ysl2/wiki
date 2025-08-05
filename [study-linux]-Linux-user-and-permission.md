@@ -1,4 +1,4 @@
-# Linux user and permission
+# [study-linux] Linux user and permission
 
 ## Create user and specify home path
 
