@@ -1,4 +1,4 @@
-# [mac] Localhost configs
+# [os-mac] Localhost configs
 
 `~/.bashrc.localhost.post`
 
