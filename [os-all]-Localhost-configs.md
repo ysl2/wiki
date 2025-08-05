@@ -1,4 +1,4 @@
-# [common] Localhost configs
+# [os-all] Localhost configs
 
 `/home/yusongli/.dosbox/dosbox.localhost.conf`
 
