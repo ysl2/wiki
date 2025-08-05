@@ -1,4 +1,4 @@
-# Linux file descriptor and redirection
+# [study-linux] Linux file descriptor and redirection
 
 Create a new file descriptor
 
