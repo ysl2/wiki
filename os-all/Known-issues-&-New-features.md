@@ -39,3 +39,14 @@ discussion工具只能导出第一个comment。因此需要转移正文
 寻找一个discussion blog page的前端页面，打造成blog。参考我自己的star列表
 
 discussion 编辑时的tab键失效问题：<https://github.com/orgs/community/discussions/127067>
+
+---
+
+tmux创建新window的时候，默认follow symlink，但我不想
+
+这个可以解决，但是`TMUX_PWD_#D` 变量只能增加不能清理。需要想办法同步清理
+<https://github.com/tmux/tmux/issues/1282#issuecomment-559033047>
+
+---
+
+本地ttyd，然后远端tmux打开nvim，不能`<C-number>`
