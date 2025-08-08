@@ -1,5 +1,15 @@
 # [os-deb] Home
 
+```bash
+# Remove conflicting files for `~/.profile`.
+mv ~/.bash_profile ~/.bash_profile_
+mv ~/.bash_login ~/.bash_login_
+
+# Use startx for resolving the volume keeping issue.
+# If use gdm, the volume will be resotred to 40% after reboot.
+sudo systemctl set-default multi-user.target
+```
+
 - debian下载（本地包）
   - <https://cdimage.debian.org/debian-cd/current/amd64/iso-dvd>
 - dd命令做安装盘
