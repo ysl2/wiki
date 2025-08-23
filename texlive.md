@@ -6,6 +6,12 @@
 sudo apt install texlive-full
 ```
 
+## macOS installation
+
+```bash
+brew install --cask mactex
+```
+
 ## Windows installation
 
 1. Download: <https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/Images/texlive.iso>
