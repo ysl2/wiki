@@ -29,16 +29,20 @@ docker
 docker-buildx
 docker-compose
 fastfetch
+ffmpeg
 fzf
 gemini-cli
+gh
 glow
 gnu-sed
 go
+imagemagick
 kind
 lf
 ncdu
 neovim
 node
+openjdk
 pngpaste
 reattach-to-user-namespace
 redshift
@@ -49,6 +53,7 @@ starship
 switchaudio-osx
 tmux
 trzsz-go
+unar
 uv
 wget
 zathura
@@ -66,6 +71,7 @@ cursorcerer
 font-fira-code-nerd-font
 jiggler
 keycastr
+mactex
 obsidian
 parallels
 quickrecorder
