@@ -1,6 +1,14 @@
 # zathura
 
-## Mac installation
+## Installation
+
+### Linux installation
+
+```bash
+sudo apt install zathura
+```
+
+### Mac installation
 
 > Ref: <https://github.com/homebrew-zathura/homebrew-zathura>
 
