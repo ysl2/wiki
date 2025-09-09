@@ -1,5 +1,8 @@
 # [os-mac] Home
 
+> [!NOTE]
+> [.assets/Home](.assets/Home)
+
 ## 网络设置与配置恢复
 
 - 手机在mihomo party的github release页面下载dmg，发送到mac上安装。导入节点信息
@@ -16,70 +19,10 @@
 
 ### 包列表
 
-```text
-❯ brew list -1 --installed-on-request
-atuin
-autossh
-bash
-borders
-bottom
-chafa
-colima
-docker
-docker-buildx
-docker-compose
-fastfetch
-ffmpeg
-fzf
-gemini-cli
-gh
-glow
-gnu-sed
-go
-imagemagick
-kind
-lf
-ncdu
-neovim
-node
-openjdk
-pngpaste
-reattach-to-user-namespace
-redshift
-ripgrep
-rustup
-sketchybar
-starship
-switchaudio-osx
-tmux
-trzsz-go
-unar
-uv
-wget
-zathura
-zathura-pdf-mupdf
-zathura-pdf-poppler
-```
+```bash
+brew list -1 --installed-on-request > ~/Documents/blog/os-mac/.assets/Home/brew.txt
 
-```text
-❯ brew list -1 --casks
-aerospace
-alt-tab
-baidunetdisk
-chatbox
-cursorcerer
-drawio
-font-fira-code-nerd-font
-gimp
-jiggler
-keycastr
-mactex
-obsidian
-parallels
-quickrecorder
-raycast
-scroll-reverser
-snipaste
+brew list -1 --casks > ~/Documents/blog/os-mac/.assets/Home/brew-casks.txt
 ```
 
 ### 特殊依赖安装

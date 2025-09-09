@@ -1,0 +1,17 @@
+aerospace
+alt-tab
+baidunetdisk
+chatbox
+cursorcerer
+drawio
+font-fira-code-nerd-font
+gimp
+jiggler
+keycastr
+mactex
+obsidian
+parallels
+quickrecorder
+raycast
+scroll-reverser
+snipaste
