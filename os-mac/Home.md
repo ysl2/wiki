@@ -68,7 +68,9 @@ alt-tab
 baidunetdisk
 chatbox
 cursorcerer
+drawio
 font-fira-code-nerd-font
+gimp
 jiggler
 keycastr
 mactex
