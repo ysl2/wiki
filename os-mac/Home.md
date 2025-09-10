@@ -20,9 +20,7 @@
 ### 包列表
 
 ```bash
-brew list -1 --installed-on-request > ~/Documents/blog/os-mac/.assets/Home/brew.txt
-
-brew list -1 --casks > ~/Documents/blog/os-mac/.assets/Home/brew-casks.txt
+brew list -1 --installed-on-request > ~/Documents/blog/os-mac/.assets/Home/brew.txt; brew list -1 --casks > ~/Documents/blog/os-mac/.assets/Home/brew-casks.txt
 ```
 
 ### 特殊依赖安装
@@ -49,64 +47,72 @@ defaults write -g ApplePressAndHoldEnabled -bool false
 
 ## System settings
 
-<img src=".assets/Home/img/2025-07-09-09-07-43.png" alt="" width=100%>
+<p><img src=".assets/Home/img/2025-07-09-09-07-43.png" alt="" width=75% style="display: block; margin: auto;"></p>
 
-<img src=".assets/Home/img/2025-07-09-13-49-23.png" alt="" width=100%>
+<p><img src=".assets/Home/img/2025-07-09-13-49-23.png" alt="" width=75% style="display: block; margin: auto;"></p>
 
-<img src=".assets/Home/img/2025-07-09-13-50-14.png" alt="" width=100%>
+<p><img src=".assets/Home/img/2025-07-09-13-50-14.png" alt="" width=75% style="display: block; margin: auto;"></p>
 
-<img src=".assets/Home/img/2025-07-09-13-51-02.png" alt="" width=100%>
+<p><img src=".assets/Home/img/2025-07-09-13-51-02.png" alt="" width=75% style="display: block; margin: auto;"></p>
 
-<img src=".assets/Home/img/2025-07-09-13-52-18.png" alt="" width=100%>
+<p><img src=".assets/Home/img/2025-07-09-13-52-18.png" alt="" width=75% style="display: block; margin: auto;"></p>
 
-<img src=".assets/Home/img/2025-07-09-13-52-53.png" alt="" width=100%>
+<p><img src=".assets/Home/img/2025-07-09-13-52-53.png" alt="" width=75% style="display: block; margin: auto;"></p>
 
-<img src=".assets/Home/img/2025-07-09-13-53-44.png" alt="" width=100%>
+<p><img src=".assets/Home/img/2025-07-09-13-53-44.png" alt="" width=75% style="display: block; margin: auto;"></p>
 
-<img src=".assets/Home/img/2025-07-09-13-54-24.png" alt="" width=100%>
+<p><img src=".assets/Home/img/2025-07-09-13-54-24.png" alt="" width=75% style="display: block; margin: auto;"></p>
 
-<img src=".assets/Home/img/2025-07-09-13-55-08.png" alt="" width=100%>
+<p><img src=".assets/Home/img/2025-07-09-13-55-08.png" alt="" width=75% style="display: block; margin: auto;"></p>
 
 ## Other settings
 
-<img src=".assets/Home/img/2025-07-09-22-51-58.png" alt="" width=100%>
+### snipaste
 
-<img src=".assets/Home/img/2025-07-09-22-53-49.png" alt="" width=100%>
+<p><img src=".assets/Home/img/2025-07-09-22-51-58.png" alt="" width=75% style="display: block; margin: auto;"></p>
 
----
+<p><img src=".assets/Home/img/2025-07-09-22-53-49.png" alt="" width=75% style="display: block; margin: auto;"></p>
 
-<img src=".assets/Home/img/2025-07-09-22-55-03.png" alt="" width=100%>
+### alt-tab
 
-<img src=".assets/Home/img/2025-07-09-22-56-24.png" alt="" width=100%>
+<p><img src=".assets/Home/img/2025-07-09-22-55-03.png" alt="" width=75% style="display: block; margin: auto;"></p>
 
----
+<p><img src=".assets/Home/img/2025-07-09-22-56-24.png" alt="" width=75% style="display: block; margin: auto;"></p>
 
-<img src=".assets/Home/img/2025-07-09-22-57-44.png" alt="" width=100%>
+### raycast
 
-<img src=".assets/Home/img/2025-07-09-22-58-51.png" alt="" width=100%>
+<p><img src=".assets/Home/img/2025-07-09-22-57-44.png" alt="" width=75% style="display: block; margin: auto;"></p>
 
-<img src=".assets/Home/img/2025-07-09-23-00-03.png" alt="" width=100%>
+<p><img src=".assets/Home/img/2025-07-09-22-58-51.png" alt="" width=75% style="display: block; margin: auto;"></p>
 
----
+<p><img src=".assets/Home/img/2025-07-09-23-00-03.png" alt="" width=75% style="display: block; margin: auto;"></p>
 
-<img src=".assets/Home/img/2025-07-09-23-01-21.png" alt="" width=100%>
+### jiggler
 
----
+<p><img src=".assets/Home/img/2025-07-09-23-01-21.png" alt="" width=75% style="display: block; margin: auto;"></p>
 
-<img src=".assets/Home/img/2025-07-09-23-02-26.png" alt="" width=100%>
+### mihomo-party
 
----
+<p><img src=".assets/Home/img/2025-07-09-23-02-26.png" alt="" width=75% style="display: block; margin: auto;"></p>
 
-<img src=".assets/Home/img/2025-07-09-23-03-22.png" alt="" width=100%>
+### scroll-reverser
 
-<img src=".assets/Home/img/2025-07-09-23-04-07.png" alt="" width=100%>
+<p><img src=".assets/Home/img/2025-07-09-23-03-22.png" alt="" width=75% style="display: block; margin: auto;"></p>
 
----
+<p><img src=".assets/Home/img/2025-07-09-23-04-07.png" alt="" width=75% style="display: block; margin: auto;"></p>
 
-<img src=".assets/Home/img/2025-07-09-23-05-39.png" alt="" width=100%>
+### cursorcerer
 
----
+<p><img src=".assets/Home/img/2025-07-09-23-05-39.png" alt="" width=75% style="display: block; margin: auto;"></p>
 
-<img src=".assets/Home/img/2025-07-09-23-06-37.png" alt="" width=100%>
+### Yoink
 
-<img src=".assets/Home/img/2025-07-09-23-07-27.png" alt="" width=100%>
+<p><img src=".assets/Home/img/2025-07-09-23-06-37.png" alt="" width=75% style="display: block; margin: auto;"></p>
+
+<p><img src=".assets/Home/img/2025-07-09-23-07-27.png" alt="" width=75% style="display: block; margin: auto;"></p>
+
+### trex
+
+<p><img src=".assets/Home/img/2025-09-10-13-59-19.png" alt="" width=75% style="display: block; margin: auto;"></p>
+
+<p><img src=".assets/Home/img/2025-09-10-13-59-41.png" alt="" width=75% style="display: block; margin: auto;"></p>
