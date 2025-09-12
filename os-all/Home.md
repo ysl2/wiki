@@ -35,6 +35,8 @@
 | `gh`            | Linux/Mac         | CLI  | Official Github CLI     | <https://github.com/cli/cli>                                                         |
 | `gh-dash`       | Linux/Mac         | TUI  | Github dashboard        | <https://github.com/dlvhdr/gh-dash>                                                  |
 | `mycli`         | Linux/Mac         | CLI  | MySQL                   | <https://github.com/dbcli/mycli>                                                     |
+| `ilovepdf`      | Web               |      | PDF process             | <https://www.ilovepdf.com/>                                                          |
+| `iloveimg`      | Web               |      | Image process           | <https://www.iloveimg.com/>                                                          |
 
 ### redshift
 
