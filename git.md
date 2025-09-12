@@ -60,3 +60,13 @@ crlf2lf -r .
   ```powershell
   (Get-Content "filename.txt") -replace "`r`n", "`n" | Set-Content "filename.txt"
   ```
+
+## Make git case-sensitive (might cause bugs when renaming files only by case)
+
+```bash
+# Check current setting
+git config core.ignorecase
+
+# Set to false to make git case-sensitive
+git config core.ignorecase false
+```
