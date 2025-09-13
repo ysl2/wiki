@@ -126,7 +126,7 @@ brightnessctl set 3%-
 
 For headphone settings:
 
-<img src=".assets/Home/img/2025-07-13-11-44-36.png" alt="" width=100%>
+<img src=".assets/!Home/img/2025-07-13-11-44-36.png" alt="" width=100%>
 
 Or amixer
 

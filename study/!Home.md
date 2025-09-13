@@ -1,4 +1,4 @@
-# [study] Research workflow software
+# [study] Home
 
 | Category  | Name                                                 | Read papers | Write papers | Presentation              |
 | --------- | ---------------------------------------------------- | ----------- | ------------ | ------------------------- |
