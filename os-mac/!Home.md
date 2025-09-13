@@ -115,4 +115,4 @@ defaults write -g ApplePressAndHoldEnabled -bool false
 
 <p><img src=".assets/!Home/img/2025-09-10-13-59-19.png" alt="" width=75% style="display: block; margin: auto;"></p>
 
-<p><img src=".assets/!Home/img/2025-09-10-13-59-41.png" alt="" width=75% style="display: block; margin: auto;"></p>
+<p><img src=".assets/!Home/img/2025-09-14-00-08-29.png" alt="" width=75% style="display: block; margin: auto;"></p>
