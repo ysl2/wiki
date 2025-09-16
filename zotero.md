@@ -1,15 +1,15 @@
 # zotero
 
-Plugin list:
+<p><img src=".assets/zotero/img/2025-09-16-17-24-44.png" alt="" width=100% style="display: block; margin: auto;"></p>
 
-| URL                                                   | Description                                                                                                        |
-| ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| <https://github.com/syt2/zotero-addons>               | Zotero Add-on Market \| Zotero插件市场 \| Browsing, installing, and reviewing plugins within Zotero                |
-| <https://github.com/nutstore/zotero-plugin-nutstore>  | Nutstore sso plugin for Zotero                                                                                     |
-| <https://github.com/windingwind/zotero-pdf-translate> | Translate PDF, EPub, webpage, metadata, annotations, notes to the target language. Support 20+ translate services. |
-| <https://github.com/retorquere/zotero-better-bibtex>  | Make Zotero effective for us LaTeX holdouts                                                                        |
+| URL                                                  | Description                                                                                                               |
+| ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| <https://github.com/syt2/zotero-addons>              | Zotero Add-on Market \| Zotero插件市场 \| Browsing, installing, and reviewing plugins within Zotero                       |
+| <https://github.com/nutstore/zotero-plugin-nutstore> | Nutstore sso plugin for Zotero                                                                                            |
+| <https://github.com/windingwind/zotero-better-notes> | Everything about note management. All in Zotero.                                                                          |
+| <https://github.com/redleafnew/zotero-updateifsE>    | Green Frog <https://github.com/redleafnew/zotero-updateifs> 的easyScholar数据版。更新影响因子，其他一系列工具，详见Readme |
 
----
+## [zotero-pdf-translate](https://github.com/windingwind/zotero-pdf-translate)
 
 > Ref: <https://github.com/windingwind/zotero-pdf-translate?tab=readme-ov-file#service>
 
@@ -24,6 +24,10 @@ Plugin list:
 
 <img src=".assets/zotero/img/2025-07-06-13-43-45.png" alt="" width=100%>
 
----
+## [zotero-gpt](https://github.com/MuiseDestiny/zotero-gpt)
 
 <img src=".assets/zotero/img/2025-07-06-13-45-01.png" alt="" width=100%>
+
+## [notero](https://github.com/dvanoni/notero)
+
+<p><img src=".assets/zotero/img/2025-09-16-17-23-15.png" alt="" width=100% style="display: block; margin: auto;"></p>
