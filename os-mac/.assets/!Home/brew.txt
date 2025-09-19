@@ -9,6 +9,7 @@ docker
 docker-buildx
 docker-compose
 fastfetch
+fd
 ffmpeg
 fzf
 gemini-cli

@@ -89,6 +89,8 @@ defaults write -g ApplePressAndHoldEnabled -bool false
 
 ### jiggler
 
+> Note: For macOS Tahoe, you should set jiggle mode to `Standard jiggle` (not `Zen jiggle`) to avoid bug.
+
 <p><img src=".assets/!Home/img/2025-07-09-23-01-21.png" alt="" width=75% style="display: block; margin: auto;"></p>
 
 ### mihomo-party

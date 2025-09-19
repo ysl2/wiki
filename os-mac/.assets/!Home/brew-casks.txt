@@ -9,6 +9,7 @@ gimp
 jiggler
 keycastr
 mactex
+notion
 obsidian
 parallels
 quickrecorder
@@ -16,3 +17,4 @@ raycast
 scroll-reverser
 snipaste
 trex
+typora
