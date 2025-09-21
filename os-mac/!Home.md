@@ -113,8 +113,18 @@ defaults write -g ApplePressAndHoldEnabled -bool false
 
 <p><img src=".assets/!Home/img/2025-07-09-23-07-27.png" alt="" width=75% style="display: block; margin: auto;"></p>
 
-### trex
+### trex (deprecated, use [bob](https://bobtranslate.com/) instead)
 
 <p><img src=".assets/!Home/img/2025-09-10-13-59-19.png" alt="" width=75% style="display: block; margin: auto;"></p>
 
 <p><img src=".assets/!Home/img/2025-09-14-00-08-29.png" alt="" width=75% style="display: block; margin: auto;"></p>
+
+### bob
+
+<p><img src=".assets/!Home/img/2025-09-21-14-57-10.png" alt="" width=75% style="display: block; margin: auto;"></p>
+
+<p><img src=".assets/!Home/img/2025-09-21-14-57-29.png" alt="" width=75% style="display: block; margin: auto;"></p>
+
+<p><img src=".assets/!Home/img/2025-09-21-14-58-11.png" alt="" width=75% style="display: block; margin: auto;"></p>
+
+<p><img src=".assets/!Home/img/2025-09-21-15-02-00.png" alt="" width=75% style="display: block; margin: auto;"></p>

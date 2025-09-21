@@ -17,5 +17,4 @@ raycast
 scroll-reverser
 snipaste
 steam-plus-plus
-trex
 typora
