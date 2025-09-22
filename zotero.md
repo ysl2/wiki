@@ -8,6 +8,7 @@
 | <https://github.com/nutstore/zotero-plugin-nutstore> | Nutstore sso plugin for Zotero                                                                                            |
 | <https://github.com/windingwind/zotero-better-notes> | Everything about note management. All in Zotero.                                                                          |
 | <https://github.com/redleafnew/zotero-updateifsE>    | Green Frog <https://github.com/redleafnew/zotero-updateifs> 的easyScholar数据版。更新影响因子，其他一系列工具，详见Readme |
+| <https://github.com/q77190858/zotero-pdf-background> | a zotero plugin of changing pdf background color to care your eyes                                                        |
 
 ## [zotero-pdf-translate](https://github.com/windingwind/zotero-pdf-translate)
 
@@ -23,6 +24,12 @@
 | Huoshan                   | 通过将空间多切片多组学数据整合到动态图中，STClinic解剖临床相关的壁龛          |                                                                                                                                  |
 
 <img src=".assets/zotero/img/2025-07-06-13-43-45.png" alt="" width=100%>
+
+<p><img src=".assets/zotero/img/2025-09-22-12-22-46.png" alt="" width=100% style="display: block; margin: auto;"></p>
+
+Refer to `ChatGPT` settings:
+
+<p><img src=".assets/zotero/img/2025-09-22-12-22-56.png" alt="" width=100% style="display: block; margin: auto;"></p>
 
 ## [zotero-gpt](https://github.com/MuiseDestiny/zotero-gpt)
 
