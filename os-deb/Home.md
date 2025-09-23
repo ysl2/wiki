@@ -10,6 +10,10 @@ mv ~/.bash_login ~/.bash_login_
 sudo systemctl set-default multi-user.target
 ```
 
+- 烧录器
+  - <https://github.com/balena-io/etcher/releases/download/v1.18.13/balenaEtcher-1.18.13-x64.AppImage>
+- arch下载
+  - <https://mirrors.tuna.tsinghua.edu.cn/archlinux/iso/latest/>
 - debian下载（本地包）
   - <https://cdimage.debian.org/debian-cd/current/amd64/iso-dvd>
 - dd命令做安装盘
