@@ -6,6 +6,7 @@
 
 | URL                                       | Platform          |
 | ----------------------------------------- | ----------------- |
+| <https://github.com/ysl2/note>            | Linux/Mac/Windows |
 | <https://github.com/ysl2/blog>            | Linux/Mac/Windows |
 | <https://github.com/ysl2/dotfiles>        | Linux/Mac/Windows |
 | <https://github.com/ysl2/alacritty-sixel> | Linux/Mac/Windows |

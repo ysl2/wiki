@@ -1,23 +1,23 @@
 # [study] Home
 
-| Category  | Name                                                 | Read papers     | Write papers | Presentation    |
-| --------- | ---------------------------------------------------- | --------------- | ------------ | --------------- |
-| `Storage` | [`git`](https://git-scm.com/)                        | Y               | Y            | Y               |
-| `Storage` | [`nutstore`](https://www.jianguoyun.com/)            | Y               |              | Y               |
-| `Storage` | [`baidunetdisk`](https://pan.baidu.com/)             | Y               |              | Y               |
-| `IDE`     | [`zotero`](https://www.zotero.org/)                  | Y               |              |                 |
-| `IDE`     | [`overleaf`](http://overleaf.com/)                   |                 | Y            |                 |
-| `IDE`     | [`lazyvim`](https://www.lazyvim.org/)                |                 | Y (latex)    | Y (latex table) |
-| `IDE`     | [`wps`](https://www.wps.cn/)                         |                 |              | Y (ppt)         |
-| `IDE`     | [`notion`](https://www.notion.so/)                   | Y               |              |                 |
-| `IDE`     | [`typora`](https://typora.io/)                       | Y (excel to md) |              |                 |
-| `IDE`     | [`obsidian`](https://obsidian.md/)                   |                 |              |                 |
-| `IDE`     | [`tencent-doc`](https://docs.qq.com/)                |                 |              |                 |
-| `Tool`    | [`drawio`](https://draw.io/)                         |                 | Y            | Y               |
-| `Tool`    | [`mermaidchart`](https://mermaidchart.com)           |                 |              | Y               |
-| `Tool`    | [`tablesgenerator`](https://www.tablesgenerator.com) |                 | Y            | Y               |
-| `Tool`    | [`mubu`](https://mubu.com/)                          | Y               |              | Y               |
-| `Tool`    | [`tldraw`](https://www.tldraw.com/)                  | Y               |              | Y               |
+| Category  | Name                                                 | Read papers     | Write papers | Presentation    | Personal notes |
+| --------- | ---------------------------------------------------- | --------------- | ------------ | --------------- | -------------- |
+| `Storage` | [`git`](https://git-scm.com/)                        | Y               | Y            | Y               | Y              |
+| `Storage` | [`nutstore`](https://www.jianguoyun.com/)            | Y               |              | Y               |                |
+| `Storage` | [`baidunetdisk`](https://pan.baidu.com/)             | Y               |              | Y               |                |
+| `IDE`     | [`zotero`](https://www.zotero.org/)                  | Y               |              |                 |                |
+| `IDE`     | [`overleaf`](http://overleaf.com/)                   |                 | Y            |                 |                |
+| `IDE`     | [`lazyvim`](https://www.lazyvim.org/)                |                 | Y (latex)    | Y (latex table) |                |
+| `IDE`     | [`wps`](https://www.wps.cn/)                         |                 |              | Y (ppt)         |                |
+| `IDE`     | [`notion`](https://www.notion.so/)                   | Y               |              |                 |                |
+| `IDE`     | [`typora`](https://typora.io/)                       | Y (excel to md) |              |                 |                |
+| `IDE`     | [`obsidian`](https://obsidian.md/)                   |                 |              |                 | Y              |
+| `IDE`     | [`tencent-doc`](https://docs.qq.com/)                |                 |              |                 |                |
+| `Tool`    | [`drawio`](https://draw.io/)                         |                 | Y            | Y               |                |
+| `Tool`    | [`mermaidchart`](https://mermaidchart.com)           |                 |              | Y               |                |
+| `Tool`    | [`tablesgenerator`](https://www.tablesgenerator.com) |                 | Y            | Y               |                |
+| `Tool`    | [`mubu`](https://mubu.com/)                          | Y               |              | Y               |                |
+| `Tool`    | [`tldraw`](https://www.tldraw.com/)                  | Y               |              | Y               |                |
 
 | URL                                               | Description                                                                                             |
 | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
@@ -31,12 +31,13 @@
 | <https://github.com/kjfx/kjfx>                         | 2025✈️推荐                       |                |            |                                                                   |
 | <https://gfwoff.org>                                   | 好用的✈️推荐 （2025年CN实测）    |                |            |                                                                   |
 | <https://github.com/jichangzhu/JichangTuijian>         | 2025最新好用的机场推荐与节点分享 |                |            |                                                                   |
-| <https://glados.rocks>                                 |                                  | Y              | Y          | 只能年付                                                          |
+| <https://glados.rocks>                                 |                                  | Y              | Y          | 速度快，只能季付年付                                              |
 | <https://wgetcloud.ltd>                                |                                  | Y              | Y          | 50/月                                                             |
 | <https://boostqz.com>                                  |                                  | Y              | Y          | 40/月                                                             |
 | <https://final.riolu.icu>                              |                                  | Y              | Y          | 不能clash命令行使用                                               |
 | <https://erwanfind.net>                                |                                  | Y              | Y          | 13/月/50G，不好用，节点经常timeout，速度也慢，不能clash命令行使用 |
 | <https://www.dageyun.com> -> <https://aff02.dgy02.com> |                                  | Y              | Y          | 20/月/100G，速度还行，支持clash命令行使用                         |
+| <https://ppg.369.cyou>                                 |                                  | Y              | Y          |                                                                   |
 | <https://1100.gg>                                      |                                  | N              | Y          |                                                                   |
 | <https://一元机场.ink>                                 |                                  | N              | Y          |                                                                   |
 | <https://一毛机场.com>                                 |                                  | N              |            |                                                                   |
