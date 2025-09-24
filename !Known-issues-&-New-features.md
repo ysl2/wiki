@@ -1,4 +1,4 @@
-# [os-all] Known issues & New features
+# Known issues & New features
 
 - [x] 移除过时的文件，比如`~/.tmux/_`等
 - [x] 重新考虑文件夹结构。比如`~/.script`和`~/.vocal/_`的统一性
