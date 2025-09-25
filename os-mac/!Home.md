@@ -87,13 +87,17 @@ defaults write -g ApplePressAndHoldEnabled -bool false
 
 <p><img src=".assets/!Home/img/2025-07-09-23-00-03.png" alt="" width=75% style="display: block; margin: auto;"></p>
 
-### jiggler
+### [jiggler](https://formulae.brew.sh/cask/jiggler) (deprecated, use mouse-jiggler instead)
 
 > Note: For macOS Tahoe, you should set jiggle mode to `Standard jiggle` (not `Zen jiggle`) to avoid bug.
 
 <p><img src=".assets/!Home/img/2025-07-09-23-01-21.png" alt="" width=75% style="display: block; margin: auto;"></p>
 
-### mihomo-party
+### [mouse-jiggler](https://mousejigglermac.com)
+
+<p><img src=".assets/!Home/img/2025-09-25-14-46-09.png" alt="" width=75% style="display: block; margin: auto;"></p>
+
+### [clash-party](https://formulae.brew.sh/cask/clash-party)
 
 <p><img src=".assets/!Home/img/2025-07-09-23-02-26.png" alt="" width=75% style="display: block; margin: auto;"></p>
 
@@ -107,19 +111,19 @@ defaults write -g ApplePressAndHoldEnabled -bool false
 
 <p><img src=".assets/!Home/img/2025-07-09-23-05-39.png" alt="" width=75% style="display: block; margin: auto;"></p>
 
-### Yoink
+### [Yoink](https://eternalstorms.at/yoink/mac/)
 
 <p><img src=".assets/!Home/img/2025-07-09-23-06-37.png" alt="" width=75% style="display: block; margin: auto;"></p>
 
 <p><img src=".assets/!Home/img/2025-07-09-23-07-27.png" alt="" width=75% style="display: block; margin: auto;"></p>
 
-### trex (deprecated, use [bob](https://bobtranslate.com/) instead)
+### [trex](https://formulae.brew.sh/cask/trex) (deprecated, use bob instead)
 
 <p><img src=".assets/!Home/img/2025-09-10-13-59-19.png" alt="" width=75% style="display: block; margin: auto;"></p>
 
 <p><img src=".assets/!Home/img/2025-09-14-00-08-29.png" alt="" width=75% style="display: block; margin: auto;"></p>
 
-### bob
+### [bob](https://bobtranslate.com/)
 
 <p><img src=".assets/!Home/img/2025-09-21-14-57-10.png" alt="" width=75% style="display: block; margin: auto;"></p>
 
