@@ -48,6 +48,7 @@ redshift -x
 | `res-downloader`       | Linux/Mac/Windows | CLI  | WeChat, XHS, etc. download          | <https://github.com/putyy/res-downloader>       |
 | `obs`                  | Linux/Mac/Windows | GUI  | Live streaming and screen recording | <https://github.com/obsproject/obs-studio>      |
 | `eslockdec`            | Linux/Mac/Windows | GUI  | Unlock eslock file                  | <https://github.com/Rambin/eslockdec>           |
+| `BaiduPCS-Go`          | Linux/Mac/Windows | CLI  | Baidunetdisk CLI                    | <https://github.com/qjfoidnh/BaiduPCS-Go>       |
 | `nvtop`                | Linux/Mac         | TUI  | Check GPU status in terminal        | <https://github.com/Syllo/nvtop>                |
 | `carbonyl`             | Linux/Mac         | TUI  | Browser in terminal                 | <https://github.com/fathyb/carbonyl>            |
 | `trans`                | Linux/Mac         | CLI  | Language translate                  | <https://github.com/soimort/translate-shell>    |
