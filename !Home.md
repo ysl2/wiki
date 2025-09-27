@@ -44,7 +44,6 @@ redshift -x
 | `pdf2svg`              | Linux/Mac/Windows | CLI  | PDF to SVG, for Typst               | <https://github.com/dawbarton/pdf2svg>          |
 | `qrcp`                 | Linux/Mac/Windows | CLI  | File transfer                       | <https://github.com/claudiodangelis/qrcp>       |
 | `glow`                 | Linux/Mac/Windows | TUI  | Markdown previewer                  | <https://github.com/charmbracelet/glow>         |
-| `babeldoc`             | Linux/Mac/Windows | CLI  | Document translate                  | <https://github.com/funstory-ai/BabelDOC>       |
 | `res-downloader`       | Linux/Mac/Windows | CLI  | WeChat, XHS, etc. download          | <https://github.com/putyy/res-downloader>       |
 | `obs`                  | Linux/Mac/Windows | GUI  | Live streaming and screen recording | <https://github.com/obsproject/obs-studio>      |
 | `eslockdec`            | Linux/Mac/Windows | GUI  | Unlock eslock file                  | <https://github.com/Rambin/eslockdec>           |
