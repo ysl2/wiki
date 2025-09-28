@@ -12,6 +12,7 @@ fastfetch
 fd
 ffmpeg
 fzf
+gcc
 gemini-cli
 gh
 glow
