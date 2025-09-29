@@ -37,27 +37,28 @@ redshift -x
 
 ### Other tools
 
-| Name                   | Platform          | Type | Note                                | URL                                             |
-| ---------------------- | ----------------- | ---- | ----------------------------------- | ----------------------------------------------- |
-| `termscp`              | Linux/Mac/Windows | TUI  | SFTP in terminal                    | <https://github.com/veeso/termscp>              |
-| `flameshot`            | Linux/Mac/Windows | GUI  | Image capture                       | <https://github.com/flameshot-org/flameshot>    |
-| `pdf2svg`              | Linux/Mac/Windows | CLI  | PDF to SVG, for Typst               | <https://github.com/dawbarton/pdf2svg>          |
-| `qrcp`                 | Linux/Mac/Windows | CLI  | File transfer                       | <https://github.com/claudiodangelis/qrcp>       |
-| `glow`                 | Linux/Mac/Windows | TUI  | Markdown previewer                  | <https://github.com/charmbracelet/glow>         |
-| `res-downloader`       | Linux/Mac/Windows | CLI  | WeChat, XHS, etc. download          | <https://github.com/putyy/res-downloader>       |
-| `obs`                  | Linux/Mac/Windows | GUI  | Live streaming and screen recording | <https://github.com/obsproject/obs-studio>      |
-| `eslockdec`            | Linux/Mac/Windows | GUI  | Unlock eslock file                  | <https://github.com/Rambin/eslockdec>           |
-| `BaiduPCS-Go`          | Linux/Mac/Windows | CLI  | Baidunetdisk CLI                    | <https://github.com/qjfoidnh/BaiduPCS-Go>       |
-| `nvtop`                | Linux/Mac         | TUI  | Check GPU status in terminal        | <https://github.com/Syllo/nvtop>                |
-| `carbonyl`             | Linux/Mac         | TUI  | Browser in terminal                 | <https://github.com/fathyb/carbonyl>            |
-| `trans`                | Linux/Mac         | CLI  | Language translate                  | <https://github.com/soimort/translate-shell>    |
-| `chafa`                | Linux/Mac         | CLI  | Terminal image renderer             | <https://github.com/hpjansson/chafa>            |
-| `gh`                   | Linux/Mac         | CLI  | Official Github CLI                 | <https://github.com/cli/cli>                    |
-| `gh-dash`              | Linux/Mac         | TUI  | Github dashboard                    | <https://github.com/dlvhdr/gh-dash>             |
-| `mycli`                | Linux/Mac         | CLI  | MySQL                               | <https://github.com/dbcli/mycli>                |
-| `wx_channels_download` | Mac/Windows       | CLI  | WeChat channels download            | <https://github.com/ltaoo/wx_channels_download> |
-| `ilovepdf`             | Web               |      | PDF process                         | <https://www.ilovepdf.com/>                     |
-| `iloveimg`             | Web               |      | Image process                       | <https://www.iloveimg.com/>                     |
+| Name                   | Platform          | Type | Note                                | URL                                                |
+| ---------------------- | ----------------- | ---- | ----------------------------------- | -------------------------------------------------- |
+| `termscp`              | Linux/Mac/Windows | TUI  | SFTP in terminal                    | <https://github.com/veeso/termscp>                 |
+| `flameshot`            | Linux/Mac/Windows | GUI  | Image capture                       | <https://github.com/flameshot-org/flameshot>       |
+| `pdf2svg`              | Linux/Mac/Windows | CLI  | PDF to SVG, for Typst               | <https://github.com/dawbarton/pdf2svg>             |
+| `qrcp`                 | Linux/Mac/Windows | CLI  | File transfer                       | <https://github.com/claudiodangelis/qrcp>          |
+| `glow`                 | Linux/Mac/Windows | TUI  | Markdown previewer                  | <https://github.com/charmbracelet/glow>            |
+| `res-downloader`       | Linux/Mac/Windows | CLI  | WeChat, XHS, etc. download          | <https://github.com/putyy/res-downloader>          |
+| `obs`                  | Linux/Mac/Windows | GUI  | Live streaming and screen recording | <https://github.com/obsproject/obs-studio>         |
+| `eslockdec`            | Linux/Mac/Windows | GUI  | Unlock eslock file                  | <https://github.com/Rambin/eslockdec>              |
+| `BaiduPCS-Go`          | Linux/Mac/Windows | CLI  | Baidunetdisk CLI                    | <https://github.com/qjfoidnh/BaiduPCS-Go>          |
+| `nvtop`                | Linux/Mac         | TUI  | Check GPU status in terminal        | <https://github.com/Syllo/nvtop>                   |
+| `carbonyl`             | Linux/Mac         | TUI  | Browser in terminal                 | <https://github.com/fathyb/carbonyl>               |
+| `trans`                | Linux/Mac         | CLI  | Language translate                  | <https://github.com/soimort/translate-shell>       |
+| `chafa`                | Linux/Mac         | CLI  | Terminal image renderer             | <https://github.com/hpjansson/chafa>               |
+| `gh`                   | Linux/Mac         | CLI  | Official Github CLI                 | <https://github.com/cli/cli>                       |
+| `gh-dash`              | Linux/Mac         | TUI  | Github dashboard                    | <https://github.com/dlvhdr/gh-dash>                |
+| `mycli`                | Linux/Mac         | CLI  | MySQL                               | <https://github.com/dbcli/mycli>                   |
+| `wx_channels_download` | Mac/Windows       | CLI  | WeChat channels download            | <https://github.com/ltaoo/wx_channels_download>    |
+| `ilovepdf`             | Web               |      | PDF process                         | <https://www.ilovepdf.com/>                        |
+| `iloveimg`             | Web               |      | Image process                       | <https://www.iloveimg.com/>                        |
+| `m3u8-downloader`      | Web               |      | M3U8 video downloader               | <https://github.com/Momo707577045/m3u8-downloader> |
 
 #### [img2pdf](https://github.com/josch/img2pdf) (Linux/Mac/Windows, CLI, Image to PDF, for Latex)
 
