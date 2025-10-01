@@ -45,6 +45,7 @@ redshift -x
 | `qrcp`                 | Linux/Mac/Windows | CLI  | File transfer                       | <https://github.com/claudiodangelis/qrcp>          |
 | `glow`                 | Linux/Mac/Windows | TUI  | Markdown previewer                  | <https://github.com/charmbracelet/glow>            |
 | `res-downloader`       | Linux/Mac/Windows | CLI  | WeChat, XHS, etc. download          | <https://github.com/putyy/res-downloader>          |
+| `m3u8-downloader`      | Linux/Mac/Windows | CLI  | M3U8 video downloader               | <https://github.com/ysl2/m3u8-downloader>          |
 | `obs`                  | Linux/Mac/Windows | GUI  | Live streaming and screen recording | <https://github.com/obsproject/obs-studio>         |
 | `eslockdec`            | Linux/Mac/Windows | GUI  | Unlock eslock file                  | <https://github.com/Rambin/eslockdec>              |
 | `BaiduPCS-Go`          | Linux/Mac/Windows | CLI  | Baidunetdisk CLI                    | <https://github.com/qjfoidnh/BaiduPCS-Go>          |
