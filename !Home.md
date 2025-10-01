@@ -2,7 +2,7 @@
 
 > Ref: <https://github.com/johnalanwoods/maintained-modern-unix>
 
-## My projects
+## 1. My projects
 
 | URL                                       | Platform          |
 | ----------------------------------------- | ----------------- |
@@ -14,9 +14,9 @@
 | <https://github.com/ysl2/dotlinks>        | Mac/Windows       |
 | <https://github.com/ysl2/i3>              | Linux             |
 
-## Common platforms
+## 2. Common platform tools
 
-### Basic tools
+### 2.1 Basic tools
 
 | Name       | Platform          | Type | Note                | URL                                      |
 | ---------- | ----------------- | ---- | ------------------- | ---------------------------------------- |
@@ -24,54 +24,67 @@
 | `snipaste` | Linux/Mac/Windows | GUI  | Image capture       | <https://www.snipaste.com>               |
 | `ncdu`     | Linux/Mac         | TUI  | Check disk usage    | <https://man.archlinux.org/man/ncdu.1>   |
 
-#### [redshift](https://github.com/jonls/redshift) (Linux/Mac/Windows, CLI, Brightness)
+- [`redshift`](https://github.com/jonls/redshift) (Linux/Mac/Windows, CLI, Brightness)
 
-```bash
-# install
-sudo apt install redshift
-# Set to default night mode colur
-redshift -P -O 4500K
-# Reset
-redshift -x
-```
+  ```bash
+  # install
+  sudo apt install redshift
+  # Set to default night mode colur
+  redshift -P -O 4500K
+  # Reset
+  redshift -x
+  ```
 
-### Other tools
+### 2.2 Other tools
 
-| Name                   | Platform          | Type | Note                                | URL                                                |
-| ---------------------- | ----------------- | ---- | ----------------------------------- | -------------------------------------------------- |
-| `termscp`              | Linux/Mac/Windows | TUI  | SFTP in terminal                    | <https://github.com/veeso/termscp>                 |
-| `flameshot`            | Linux/Mac/Windows | GUI  | Image capture                       | <https://github.com/flameshot-org/flameshot>       |
-| `pdf2svg`              | Linux/Mac/Windows | CLI  | PDF to SVG, for Typst               | <https://github.com/dawbarton/pdf2svg>             |
-| `qrcp`                 | Linux/Mac/Windows | CLI  | File transfer                       | <https://github.com/claudiodangelis/qrcp>          |
-| `glow`                 | Linux/Mac/Windows | TUI  | Markdown previewer                  | <https://github.com/charmbracelet/glow>            |
-| `res-downloader`       | Linux/Mac/Windows | CLI  | WeChat, XHS, etc. download          | <https://github.com/putyy/res-downloader>          |
-| `m3u8-downloader`      | Linux/Mac/Windows | CLI  | M3U8 video downloader               | <https://github.com/ysl2/m3u8-downloader>          |
-| `obs`                  | Linux/Mac/Windows | GUI  | Live streaming and screen recording | <https://github.com/obsproject/obs-studio>         |
-| `eslockdec`            | Linux/Mac/Windows | GUI  | Unlock eslock file                  | <https://github.com/Rambin/eslockdec>              |
-| `BaiduPCS-Go`          | Linux/Mac/Windows | CLI  | Baidunetdisk CLI                    | <https://github.com/qjfoidnh/BaiduPCS-Go>          |
-| `nvtop`                | Linux/Mac         | TUI  | Check GPU status in terminal        | <https://github.com/Syllo/nvtop>                   |
-| `carbonyl`             | Linux/Mac         | TUI  | Browser in terminal                 | <https://github.com/fathyb/carbonyl>               |
-| `trans`                | Linux/Mac         | CLI  | Language translate                  | <https://github.com/soimort/translate-shell>       |
-| `chafa`                | Linux/Mac         | CLI  | Terminal image renderer             | <https://github.com/hpjansson/chafa>               |
-| `gh`                   | Linux/Mac         | CLI  | Official Github CLI                 | <https://github.com/cli/cli>                       |
-| `gh-dash`              | Linux/Mac         | TUI  | Github dashboard                    | <https://github.com/dlvhdr/gh-dash>                |
-| `mycli`                | Linux/Mac         | CLI  | MySQL                               | <https://github.com/dbcli/mycli>                   |
-| `wx_channels_download` | Mac/Windows       | CLI  | WeChat channels download            | <https://github.com/ltaoo/wx_channels_download>    |
-| `ilovepdf`             | Web               |      | PDF process                         | <https://www.ilovepdf.com/>                        |
-| `iloveimg`             | Web               |      | Image process                       | <https://www.iloveimg.com/>                        |
-| `m3u8-downloader`      | Web               |      | M3U8 video downloader               | <https://github.com/Momo707577045/m3u8-downloader> |
+| Name          | Platform          | Type | Note                                | URL                                          |
+| ------------- | ----------------- | ---- | ----------------------------------- | -------------------------------------------- |
+| `termscp`     | Linux/Mac/Windows | TUI  | SFTP in terminal                    | <https://github.com/veeso/termscp>           |
+| `flameshot`   | Linux/Mac/Windows | GUI  | Image capture                       | <https://github.com/flameshot-org/flameshot> |
+| `pdf2svg`     | Linux/Mac/Windows | CLI  | PDF to SVG, for Typst               | <https://github.com/dawbarton/pdf2svg>       |
+| `qrcp`        | Linux/Mac/Windows | CLI  | File transfer                       | <https://github.com/claudiodangelis/qrcp>    |
+| `glow`        | Linux/Mac/Windows | TUI  | Markdown previewer                  | <https://github.com/charmbracelet/glow>      |
+| `obs`         | Linux/Mac/Windows | GUI  | Live streaming and screen recording | <https://github.com/obsproject/obs-studio>   |
+| `eslockdec`   | Linux/Mac/Windows | GUI  | Unlock eslock file                  | <https://github.com/Rambin/eslockdec>        |
+| `BaiduPCS-Go` | Linux/Mac/Windows | CLI  | Baidunetdisk CLI                    | <https://github.com/qjfoidnh/BaiduPCS-Go>    |
+| `nvtop`       | Linux/Mac         | TUI  | Check GPU status in terminal        | <https://github.com/Syllo/nvtop>             |
+| `carbonyl`    | Linux/Mac         | TUI  | Browser in terminal                 | <https://github.com/fathyb/carbonyl>         |
+| `trans`       | Linux/Mac         | CLI  | Language translate                  | <https://github.com/soimort/translate-shell> |
+| `chafa`       | Linux/Mac         | CLI  | Terminal image renderer             | <https://github.com/hpjansson/chafa>         |
+| `gh`          | Linux/Mac         | CLI  | Official Github CLI                 | <https://github.com/cli/cli>                 |
+| `gh-dash`     | Linux/Mac         | TUI  | Github dashboard                    | <https://github.com/dlvhdr/gh-dash>          |
+| `mycli`       | Linux/Mac         | CLI  | MySQL                               | <https://github.com/dbcli/mycli>             |
+| `ilovepdf`    | Web               |      | PDF process                         | <https://www.ilovepdf.com/>                  |
+| `iloveimg`    | Web               |      | Image process                       | <https://www.iloveimg.com/>                  |
 
-#### [img2pdf](https://github.com/josch/img2pdf) (Linux/Mac/Windows, CLI, Image to PDF, for Latex)
+- [`img2pdf`](https://github.com/josch/img2pdf) (Linux/Mac/Windows, CLI, Image to PDF, for Latex)
 
-```bash
-pip install img2pdf
+  ```bash
+  pip install img2pdf
 
-img2pdf *.jpg -o output.pdf
-```
+  img2pdf *.jpg -o output.pdf
+  ```
 
-## Linux specific
+| Scene: Video download  | Platform          | Type | Note                       | URL                                                |
+| ---------------------- | ----------------- | ---- | -------------------------- | -------------------------------------------------- |
+| `res-downloader`       | Linux/Mac/Windows | CLI  | WeChat, XHS, etc. download | <https://github.com/putyy/res-downloader>          |
+| `m3u8-downloader`      | Linux/Mac/Windows | CLI  | M3U8 video downloader      | <https://github.com/ysl2/m3u8-downloader>          |
+| `wx_channels_download` | Mac/Windows       | CLI  | WeChat channels download   | <https://github.com/ltaoo/wx_channels_download>    |
+| `m3u8-downloader`      | Web               |      | M3U8 video downloader      | <https://github.com/Momo707577045/m3u8-downloader> |
 
-### Basic tools
+- [`yt-dlp`](https://github.com/yt-dlp/yt-dlp) (Linux/Mac/Windows, CLI, Video downloader)
+
+  ```bash
+  # For linux or mac
+  ./yt-dlp "https://my.url" -o "01.mp4"
+
+  # For windows
+  .\yt-dlp.exe --no-check-certificate "https://my.url" -o "01.mp4"
+  ```
+
+## 3. Linux specific tools
+
+### 3.1 Basic tools
 
 | Name           | Platform | Type | Note                  | URL                                          |
 | -------------- | -------- | ---- | --------------------- | -------------------------------------------- |
@@ -86,31 +99,31 @@ img2pdf *.jpg -o output.pdf
 | `tlp`          | Linux    | CLI  | Power saver           | <https://github.com/linrunner/TLP>           |
 | `lxappearance` | Linux    | GUI  | GTK theme changer     | <https://github.com/lxde/lxappearance>       |
 
-#### [brightnessctl](https://github.com/Hummer12007/brightnessctl) (Linux, CLI, Brightness)
+- [`brightnessctl`](https://github.com/Hummer12007/brightnessctl) (Linux, CLI, Brightness)
 
-```bash
-#  Increase by 3%
-brightnessctl set 3%+
+  ```bash
+  #  Increase by 3%
+  brightnessctl set 3%+
 
-# decrease by 3%
-brightnessctl set 3%-
-```
+  # decrease by 3%
+  brightnessctl set 3%-
+  ```
 
-#### [alsamixer](alsa-project.org) (Linux, TUI, Sound)
+- [`alsamixer`](alsa-project.org) (Linux, TUI, Sound)
 
-For headphone settings:
+  For headphone settings:
 
-<img src=".assets/!Home/img/2025-07-13-11-44-36.png" alt="" width=100%>
+  <img src=".assets/!Home/img/2025-07-13-11-44-36.png" alt="" width=100%>
 
-Or amixer
+  Or amixer
 
-```bash
-amixer -M get Master
-amixer -M set Master 0%
-amixer -M set Master 5%+
-```
+  ```bash
+  amixer -M get Master
+  amixer -M set Master 0%
+  amixer -M set Master 5%+
+  ```
 
-### Other tools
+### 3.2 Other tools
 
 | Name           | Platform | Type | Note                             | URL                                                 |
 | -------------- | -------- | ---- | -------------------------------- | --------------------------------------------------- |
@@ -118,28 +131,28 @@ amixer -M set Master 5%+
 | `qq`           | Linux    | GUI  | Official QQ                      | <https://im.qq.com/linuxqq/index.shtml>             |
 | `color-picker` | Linux    | GUI  | Color picker                     | <https://github.com/keshavbhatt/ColorPicker>        |
 
-#### [bluetoothctl](https://man.archlinux.org/man/bluetoothctl.1) (Linux, CLI, Bluetooth)
+- [`bluetoothctl`](https://man.archlinux.org/man/bluetoothctl.1) (Linux, CLI, Bluetooth)
 
-```text
-要使用 bluetoothctl 连接蓝牙设备，您可以按照以下步骤进行操作：
+  ```text
+  要使用 bluetoothctl 连接蓝牙设备，您可以按照以下步骤进行操作：
 
-打开终端并输入 bluetoothctl 进入蓝牙控制台。
+  打开终端并输入 bluetoothctl 进入蓝牙控制台。
 
-输入 power on，确保蓝牙适配器已经开启。
+  输入 power on，确保蓝牙适配器已经开启。
 
-输入 agent on，启用默认的蓝牙代理。
+  输入 agent on，启用默认的蓝牙代理。
 
-输入 scan on，开始扫描周围的蓝牙设备。等待一段时间，直到您看到要连接的设备的 MAC 地址。
+  输入 scan on，开始扫描周围的蓝牙设备。等待一段时间，直到您看到要连接的设备的 MAC 地址。
 
-输入 pair <device MAC>，将 <device MAC> 替换为您要连接的设备的 MAC 地址。这将发起配对过程。
+  输入 pair <device MAC>，将 <device MAC> 替换为您要连接的设备的 MAC 地址。这将发起配对过程。
 
-如果需要输入配对码，按照提示进行操作。配对码通常会在蓝牙设备上显示或者在设备的用户手册中提供。
+  如果需要输入配对码，按照提示进行操作。配对码通常会在蓝牙设备上显示或者在设备的用户手册中提供。
 
-输入 trust <device MAC>，将设备标记为受信任的设备，以便将来自动连接。
+  输入 trust <device MAC>，将设备标记为受信任的设备，以便将来自动连接。
 
-输入 connect <device MAC>，将 <device MAC> 替换为您要连接的设备的 MAC 地址。这将尝试建立与设备的连接。
+  输入 connect <device MAC>，将 <device MAC> 替换为您要连接的设备的 MAC 地址。这将尝试建立与设备的连接。
 
-如果连接成功，您应该会在终端中看到一条消息确认连接成功。
+  如果连接成功，您应该会在终端中看到一条消息确认连接成功。
 
-请注意，上述步骤中的 <device MAC> 是要连接的蓝牙设备的 MAC 地址。您可以在扫描步骤中获取它。此外，根据设备的类型和要求，可能还需要进行其他步骤。如果您遇到任何问题，请参考蓝牙设备的用户手册或官方文档，以获取更详细的指导。
-```
+  请注意，上述步骤中的 <device MAC> 是要连接的蓝牙设备的 MAC 地址。您可以在扫描步骤中获取它。此外，根据设备的类型和要求，可能还需要进行其他步骤。如果您遇到任何问题，请参考蓝牙设备的用户手册或官方文档，以获取更详细的指导。
+  ```
