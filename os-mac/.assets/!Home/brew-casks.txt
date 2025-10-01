@@ -17,4 +17,5 @@ raycast
 scroll-reverser
 snipaste
 steam-plus-plus
+stolendata-mpv
 typora
