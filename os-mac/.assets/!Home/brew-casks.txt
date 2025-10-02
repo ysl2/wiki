@@ -8,6 +8,7 @@ font-fira-code-nerd-font
 gimp
 keycastr
 mactex
+miniforge
 notion
 obsidian
 parallels
