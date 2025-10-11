@@ -20,7 +20,7 @@
 ### 包列表
 
 ```bash
-brew list -1 --installed-on-request > ~/Documents/blog/os-mac/.assets/!Home/brew.txt; brew list -1 --casks > ~/Documents/blog/os-mac/.assets/!Home/brew-casks.txt
+brew list -1 --installed-on-request > '/Users/songliyu/Documents/blog/os-mac/.assets/!Home/brew.txt'; brew list -1 --casks > '/Users/songliyu/Documents/blog/os-mac/.assets/!Home/brew-casks.txt'; brew tap > '/Users/songliyu/Documents/blog/os-mac/.assets/!Home/brew-tap.txt'
 ```
 
 ### 特殊依赖安装
