@@ -132,3 +132,7 @@ defaults write -g ApplePressAndHoldEnabled -bool false
 <p><img src=".assets/!Home/img/2025-09-21-14-58-11.png" alt="" width=75% style="display: block; margin: auto;"></p>
 
 <p><img src=".assets/!Home/img/2025-09-21-15-02-00.png" alt="" width=75% style="display: block; margin: auto;"></p>
+
+### znotch
+
+<p><img src=".assets/!Home/img/2025-10-11-16-45-59.png" alt="" width=75% style="display: block; margin: auto;"></p>
