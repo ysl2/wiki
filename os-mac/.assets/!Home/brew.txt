@@ -1,6 +1,7 @@
 atuin
 autossh
 bash
+bob
 borders
 bottom
 chafa
@@ -22,7 +23,6 @@ imagemagick
 kind
 lf
 ncdu
-neovim
 node
 openjdk
 pngpaste
