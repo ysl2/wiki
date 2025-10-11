@@ -20,3 +20,4 @@ steam-plus-plus
 stolendata-mpv
 ths
 typora
+znotch
