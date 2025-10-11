@@ -5,7 +5,7 @@
 
 ## 网络设置与配置恢复
 
-- 手机在mihomo party的github release页面下载dmg，发送到mac上安装。导入节点信息
+- Install sing-box from app store. <https://apps.apple.com/us/app/sing-box-vt/id6673731168>
 - `xcode-select --install`
 - 手动添加ssh的github 443端口配置
 - 创建ssh keypair并添加到github

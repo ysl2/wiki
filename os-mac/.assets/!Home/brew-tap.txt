@@ -2,6 +2,5 @@ chenrui333/tap
 felixkratz/formulae
 homebrew-zathura/zathura
 lihaoyun6/tap
-mihomo-party-org/mihomo-party
 nikitabobko/tap
 zkondor/dist
