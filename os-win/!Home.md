@@ -1,5 +1,17 @@
 # [os-win] Home
 
+## Activate windows11 (might also work for windows10, not tested)
+
+1. Right press the windows icon, select "Terminal (Admin)".
+1. Run the following command:
+
+   ```powershell
+   irm https://get.activated.win | iex
+   ```
+
+1. Press `1` to activate Windows.
+1. Double press `0` to exit.
+
 ## Installation on Windows
 
 ### dotfiles
@@ -165,7 +177,7 @@ source ~/.bashrc
 
 ## Windows disable WIN+L
 
-> Ref: https://superuser.com/questions/1059511/how-to-disable-winl-in-windows-10
+> Ref: <https://superuser.com/questions/1059511/how-to-disable-winl-in-windows-10>
 
 `win_l.reg`, double click to run it.
 
