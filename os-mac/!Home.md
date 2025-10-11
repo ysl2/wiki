@@ -79,6 +79,8 @@ defaults write -g ApplePressAndHoldEnabled -bool false
 
 <p><img src=".assets/!Home/img/2025-07-09-22-56-24.png" alt="" width=75% style="display: block; margin: auto;"></p>
 
+<p><img src=".assets/!Home/img/2025-10-11-16-50-04.png" alt="" width=75% style="display: block; margin: auto;"></p>
+
 ### raycast
 
 <p><img src=".assets/!Home/img/2025-07-09-22-57-44.png" alt="" width=75% style="display: block; margin: auto;"></p>
