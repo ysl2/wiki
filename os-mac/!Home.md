@@ -3,49 +3,40 @@
 > [!NOTE]
 > [.assets/!Home](.assets/!Home)
 
-## 网络设置与配置恢复
+## 1. Network configuration
 
 - Install sing-box from app store. <https://apps.apple.com/us/app/sing-box-vt/id6673731168>
-- `xcode-select --install`
-- 手动添加ssh的github 443端口配置
-- 创建ssh keypair并添加到github
-- git clone dotfiles和dotlinks -b mac，并执行恢复动作
+- Run `xcode-select --install`.
+- Manually add configuration of github 443 port.
+- Create ssh key pair and add to github.
+- Run `git clone dotfiles` and `git clone dotlinks -b mac`, and execute the restore operation.
 
-## 依赖安装
+## 2. Dependencies installation
 
 ```bash
 /bin/bash -c "$(curl -fsSL https://ghfast.top/https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-### 包列表
+### 2.1 Brew dependencies list
 
 ```bash
 brew list -1 --installed-on-request > '/Users/songliyu/Documents/blog/os-mac/.assets/!Home/brew.txt'; brew list -1 --casks > '/Users/songliyu/Documents/blog/os-mac/.assets/!Home/brew-casks.txt'; brew tap > '/Users/songliyu/Documents/blog/os-mac/.assets/!Home/brew-tap.txt'
 ```
 
-### 特殊依赖安装
-
-```bash
-brew install rustup
-rustup-init
-```
-
-### Cleanup
+### 2.2 Brew cache cleanup
 
 ```bash
 brew cleanup --prune=all -s --dry-run
 brew cleanup --prune=all -s
 ```
 
-## 全局配置
+## 3. Basic settings
 
 ```bash
 defaults write -g NSAutomaticWindowAnimationsEnabled -bool false
 defaults write -g NSAutomaticPeriodSubstitutionEnabled -bool false
 defaults write -g ApplePressAndHoldEnabled -bool false
 ```
-
-## System settings
 
 <p><img src=".assets/!Home/img/2025-07-09-09-07-43.png" alt="" width=75% style="display: block; margin: auto;"></p>
 
@@ -65,7 +56,14 @@ defaults write -g ApplePressAndHoldEnabled -bool false
 
 <p><img src=".assets/!Home/img/2025-07-09-13-55-08.png" alt="" width=75% style="display: block; margin: auto;"></p>
 
-## Other settings
+## 4. Other settings
+
+### rustup
+
+```bash
+brew install rustup
+rustup-init
+```
 
 ### snipaste
 
