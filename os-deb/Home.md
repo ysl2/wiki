@@ -16,6 +16,7 @@ sudo systemctl set-default multi-user.target
   - <https://mirrors.tuna.tsinghua.edu.cn/archlinux/iso/latest/>
 - debian下载（本地包）
   - <https://cdimage.debian.org/debian-cd/current/amd64/iso-dvd>
+  - <https://mirrors.tuna.tsinghua.edu.cn/debian-cd/current/amd64/iso-dvd/>
 - dd命令做安装盘
   - sudo dd if=/path/to/debian.iso of=/dev/sdX bs=4M status=progress oflag=sync
 - 安装。注意分区efi，512M，否则没法开机
