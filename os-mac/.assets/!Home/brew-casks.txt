@@ -1,6 +1,7 @@
 aerospace
 alt-tab
 baidunetdisk
+balenaetcher
 chatbox
 cursorcerer
 drawio
