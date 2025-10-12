@@ -2,6 +2,7 @@ aerospace
 alt-tab
 baidunetdisk
 balenaetcher
+binance
 chatbox
 cursorcerer
 drawio
@@ -20,5 +21,6 @@ snipaste
 steam-plus-plus
 stolendata-mpv
 ths
+tradingview
 typora
 znotch
