@@ -3,6 +3,7 @@ alt-tab
 baidunetdisk
 balenaetcher
 binance
+bitwarden
 chatbox
 cursorcerer
 drawio
