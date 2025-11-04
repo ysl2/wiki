@@ -14,7 +14,7 @@
 - <https://airdrops.io/>
 - <https://coinmarketcap.com/airdrop/>
 
-## Trading
+## Trading Platforms
 
 - <https://binance.com>
 - <https://okx.com>
@@ -23,6 +23,11 @@
 - <https://kraken.com>
 - <https://weex.com>
 
+## Quantitative Trading
+
+- <https://github.com/ccxt/ccxt>
+- <https://github.com/vnpy/vnpy>
+
 ## Bridge
 
 - <https://app.debridge.com/>
@@ -30,6 +35,7 @@
 ## U Card
 
 - <https://www.safepal.com/>
+- <https://pokepay.cc/>
 
 ## Wallet
 

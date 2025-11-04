@@ -1,23 +1,4 @@
-# [study] Home
-
-| Category  | Name                                                 | Read papers     | Write papers | Presentation    | Personal notes |
-| --------- | ---------------------------------------------------- | --------------- | ------------ | --------------- | -------------- |
-| `Storage` | [`git`](https://git-scm.com/)                        | Y               | Y            | Y               | Y              |
-| `Storage` | [`nutstore`](https://www.jianguoyun.com/)            | Y               |              | Y               |                |
-| `Storage` | [`baidunetdisk`](https://pan.baidu.com/)             | Y               |              | Y               |                |
-| `IDE`     | [`zotero`](https://www.zotero.org/)                  | Y               |              |                 |                |
-| `IDE`     | [`overleaf`](http://overleaf.com/)                   |                 | Y            |                 |                |
-| `IDE`     | [`lazyvim`](https://www.lazyvim.org/)                |                 | Y (latex)    | Y (latex table) |                |
-| `IDE`     | [`wps`](https://www.wps.cn/)                         |                 |              | Y (ppt)         |                |
-| `IDE`     | [`notion`](https://www.notion.so/)                   | Y               |              |                 |                |
-| `IDE`     | [`typora`](https://typora.io/)                       | Y (excel to md) |              |                 |                |
-| `IDE`     | [`obsidian`](https://obsidian.md/)                   |                 |              |                 | Y              |
-| `IDE`     | [`tencent-doc`](https://docs.qq.com/)                |                 |              |                 |                |
-| `Tool`    | [`drawio`](https://draw.io/)                         |                 | Y            | Y               |                |
-| `Tool`    | [`mermaidchart`](https://mermaidchart.com)           |                 |              | Y               |                |
-| `Tool`    | [`tablesgenerator`](https://www.tablesgenerator.com) |                 | Y            | Y               |                |
-| `Tool`    | [`mubu`](https://mubu.com/)                          | Y               |              | Y               |                |
-| `Tool`    | [`tldraw`](https://www.tldraw.com/)                  | Y               |              | Y               |                |
+# [daily] Home
 
 | URL                                               | Description                                                                                             |
 | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
@@ -44,14 +25,9 @@
 | <https://一分机场.com>                                 |                                  | N              |            |                                                                   |
 | <https://赔钱机场.com>                                 |                                  | N              |            |                                                                   |
 
-| URL                             | Description |
-| ------------------------------- | ----------- |
-| <https://nf.video>              | 银河录像局  |
-| <https://universalbus.cn>       | 环球巴士    |
-| <https://www.naifeistation.com> | 星际放映厅  |
-
 | URL                                 | Description                                               |
 | ----------------------------------- | --------------------------------------------------------- |
+| <https://nf.video>                  | 银河录像局                                                |
+| <https://universalbus.cn>           | 环球巴士                                                  |
+| <https://www.naifeistation.com>     | 星际放映厅                                                |
 | <https://github.com/chilrr/cheerup> | 👇🏻好用的工具和福利一览，页面下拉查看精彩 ，欢迎关注收藏！ |
-| <https://app.pokepay.cc>            |                                                           |
-| <https://www.binance.com>           |                                                           |
