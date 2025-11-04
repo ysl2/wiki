@@ -8,13 +8,13 @@
 
 - <https://cryptorank.io/drophunting>
 - <https://dappradar.com/rewards/airdrops>
-- <https://www.galxe.com/>
+- <https://galxe.com/>
 - <https://app.layer3.xyz/discover>
 - <https://zealy.io/>
 - <https://airdrops.io/>
 - <https://coinmarketcap.com/airdrop/>
 
-## Trading Platforms
+## Trading exchanges
 
 - <https://binance.com>
 - <https://okx.com>
@@ -22,19 +22,19 @@
 - <https://gate.com>
 - <https://kraken.com>
 - <https://weex.com>
+- <https://app.debridge.com/>
 
-## Quantitative Trading
+## Trading tools
 
+- <https://tradingview.com>
+- <https://coinglass.com/tv>
+- <https://coinglass.com/hyperliquid>
 - <https://github.com/ccxt/ccxt>
 - <https://github.com/vnpy/vnpy>
 
-## Bridge
-
-- <https://app.debridge.com/>
-
 ## U Card
 
-- <https://www.safepal.com/>
+- <https://safepal.com/>
 - <https://pokepay.cc/>
 
 ## Wallet
@@ -51,7 +51,6 @@
 1. Wallet list
 
    > - <https://bitcoin.org/en/choose-your-wallet>
-   > - <https://www.feixiaohao.com/wallet/>
 
    | URL                                                          | Star  | Import Key                  | Passphrase     | Android | iOS | Linux | Mac | Windows | Web Ext | Hardware |
    | ------------------------------------------------------------ | ----- | --------------------------- | -------------- | ------- | --- | ----- | --- | ------- | ------- | -------- |
