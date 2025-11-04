@@ -1,5 +1,11 @@
 # stock
 
+## Data analysis
+
+- <https://seekingalpha.com/>
+
+## Ref
+
 - <https://github.com/bbfamily/abu>
 - <https://github.com/vnpy/vnpy>
 - <https://github.com/UFund-Me/Qbot>
