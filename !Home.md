@@ -157,23 +157,23 @@
   请注意，上述步骤中的 <device MAC> 是要连接的蓝牙设备的 MAC 地址。您可以在扫描步骤中获取它。此外，根据设备的类型和要求，可能还需要进行其他步骤。如果您遇到任何问题，请参考蓝牙设备的用户手册或官方文档，以获取更详细的指导。
   ```
 
-## 4. Scene: Thesis tools
+## 4. Scene: Thesis and notes tools
 
-| Category  | Name                                                 | Read papers     | Write papers | Presentation    | Personal notes |
-| --------- | ---------------------------------------------------- | --------------- | ------------ | --------------- | -------------- |
-| `Storage` | [`git`](https://git-scm.com/)                        | Y               | Y            | Y               | Y              |
-| `Storage` | [`nutstore`](https://www.jianguoyun.com/)            | Y               |              | Y               |                |
-| `Storage` | [`baidunetdisk`](https://pan.baidu.com/)             | Y               |              | Y               |                |
-| `IDE`     | [`zotero`](https://www.zotero.org/)                  | Y               |              |                 |                |
-| `IDE`     | [`overleaf`](http://overleaf.com/)                   |                 | Y            |                 |                |
-| `IDE`     | [`lazyvim`](https://www.lazyvim.org/)                |                 | Y (latex)    | Y (latex table) |                |
-| `IDE`     | [`wps`](https://www.wps.cn/)                         |                 |              | Y (ppt)         |                |
-| `IDE`     | [`notion`](https://www.notion.so/)                   | Y               |              |                 |                |
-| `IDE`     | [`typora`](https://typora.io/)                       | Y (excel to md) |              |                 |                |
-| `IDE`     | [`obsidian`](https://obsidian.md/)                   |                 |              |                 | Y              |
-| `IDE`     | [`tencent-doc`](https://docs.qq.com/)                |                 |              |                 |                |
-| `Tool`    | [`drawio`](https://draw.io/)                         |                 | Y            | Y               |                |
-| `Tool`    | [`mermaidchart`](https://mermaidchart.com)           |                 |              | Y               |                |
-| `Tool`    | [`tablesgenerator`](https://www.tablesgenerator.com) |                 | Y            | Y               |                |
-| `Tool`    | [`mubu`](https://mubu.com/)                          | Y               |              | Y               |                |
-| `Tool`    | [`tldraw`](https://www.tldraw.com/)                  | Y               |              | Y               |                |
+| Category  | Name                                                 | Read papers     | Write papers    | Presentation (PPT) | Notes (Word)    | Databases (Excel) |
+| --------- | ---------------------------------------------------- | --------------- | --------------- | ------------------ | --------------- | ----------------- |
+| `Storage` | [`git`](https://git-scm.com/)                        | Y               | Y               | Y                  | Y               | Y                 |
+| `Storage` | [`nutstore`](https://www.jianguoyun.com/)            | Y               |                 | Y                  |                 | Y                 |
+| `Storage` | [`baidunetdisk`](https://pan.baidu.com/)             | Y               |                 | Y                  |                 | Y                 |
+| `IDE`     | [`zotero`](https://www.zotero.org/)                  | Y               |                 |                    |                 |                   |
+| `IDE`     | [`lazyvim`](https://www.lazyvim.org/)                |                 | Opt.1 (offline) | Y (latex table)    | Opt.1 (offline) |                   |
+| `IDE`     | [`overleaf`](http://overleaf.com/)                   |                 | Opt.2 (online)  |                    |                 |                   |
+| `IDE`     | [`obsidian`](https://obsidian.md/)                   |                 |                 |                    | Opt.2 (offline) | Opt.1 (offline)   |
+| `IDE`     | [`mubu`](https://mubu.com/)                          | Y (mindmap)     |                 | Y (mindmap)        | Opt.3 (online)  |                   |
+| `IDE`     | [`notion`](https://www.notion.so/)                   | Y (database)    |                 |                    | Opt.4 (online)  | Opt.2 (online)    |
+| `IDE`     | [`wps`](https://www.wps.cn/)                         |                 |                 | Opt.1 (offline)    | Opt.5 (offline) | Opt.3 (offline)   |
+| `IDE`     | [`tencent-doc`](https://docs.qq.com/)                |                 |                 | Opt.2 (online)     | Opt.6 (online)  | Opt.4 (online)    |
+| `IDE`     | [`typora`](https://typora.io/)                       | Y (excel to md) |                 |                    |                 |                   |
+| `Tool`    | [`drawio`](https://draw.io/)                         |                 | Y               | Y                  |                 |                   |
+| `Tool`    | [`mermaidchart`](https://mermaidchart.com)           |                 |                 | Y                  |                 |                   |
+| `Tool`    | [`tablesgenerator`](https://www.tablesgenerator.com) |                 | Y               | Y                  |                 |                   |
+| `Tool`    | [`tldraw`](https://www.tldraw.com/)                  | Y               |                 | Y                  |                 |                   |
