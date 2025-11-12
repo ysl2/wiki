@@ -18,15 +18,23 @@
 
 - <https://binance.com>
 - <https://okx.com>
-- <https://bitget.com>
+- <https://bybit.com>
 - <https://gate.com>
+- <https://bitget.com>
+- <https://htx.com>
 - <https://kraken.com>
 - <https://weex.com>
+
+## Multi-chain bridges
+
 - <https://app.debridge.com/>
 
 ## Trading tools
 
 - <https://tradingview.com>
+- <https://tradingvue.com>
+- <https://takeprofit.com>
+- <https://app.tabtrader.com/>
 - <https://coinglass.com/tv>
 - <https://coinglass.com/hyperliquid>
 - <https://github.com/ccxt/ccxt>
@@ -34,8 +42,10 @@
 
 ## U Card
 
-- <https://safepal.com/>
 - <https://pokepay.cc/>
+- <https://safepal.com/>
+- <https://wise.com/>
+- <https://bybit.com>
 
 ## Wallet
 
@@ -52,7 +62,7 @@
 
    > - <https://bitcoin.org/en/choose-your-wallet>
 
-   | URL                                                          | Star  | Import Key                  | Passphrase     | Android | iOS | Linux | Mac | Windows | Web Ext | Hardware |
+   | URL                                                          | Star  | Import BTC Private Key      | Passphrase     | Android | iOS | Linux | Mac | Windows | Web Ext | Hardware |
    | ------------------------------------------------------------ | ----- | --------------------------- | -------------- | ------- | --- | ----- | --- | ------- | ------- | -------- |
    | <https://github.com/MetaMask/metamask-extension>             | 12.8k | N                           | N              | Y       | Y   |       |     |         | Y       |          |
    | <https://github.com/spesmilo/electrum>                       | 8.2k  | Y                           | N              | Y       |     | Y     | Y   | Y       |         |          |
