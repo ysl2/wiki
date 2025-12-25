@@ -16,27 +16,31 @@
 
    去cuda官网下载对应安装包。`cuda_10.2.89_440.33.01_linux.run`
 
+   ```bash
+   wget https://developer.download.nvidia.com/compute/cuda/11.8.0/local_installers/cuda_11.8.0_520.61.05_linux.run
+   ```
+
    在目标安装位置创建上级目录。`mkdir ~/.vocal`
 
    执行`.run`文件，安装cuda到目标安装位置:
 
    ```bash
    # 非root安装示例
-   sh cuda_10.2.89_440.33.01_linux.run --silent --toolkit --toolkitpath=$HOME/.vocal/bin/cuda-10.2 --defaultroot=$HOME/.vocal/bin/cuda-10.2
+   sh cuda_10.2.89_440.33.01_linux.run --silent --toolkit --toolkitpath=$HOME/.vocal/cudas/cuda_10.2.89_440.33.01 --defaultroot=$HOME/.vocal/cudas/cuda_10.2.89_440.33.01
 
    # (1) 如果出现`log file not open`，让管理员用sudo删掉log file，重复上面步骤
    # (2) 如果提示gcc版本不匹配，cuda 10.2依赖gcc 8，gcc7不行。解决如下：
    # 方式1. 让管理员用sudo下面的命令切换系统的全局gcc版本。会影响他人使用
    sudo update-alternatives --config gcc
    # 方式2. 把/usr/bin/gcc-8 链接到~/.vocal/gcc
-   ln -s /usr/bin/gcc-8 ~/.vocal/bin/gcc
+   ln -s /usr/bin/gcc-8 ~/.vocal/gcc
    export PATH="$HOME/.vocal:$PATH"  # 在`~/.bashrc`文件里面添加
    # 解决gcc问题后，重复执行上面安装cuda步骤
 
    # 在~/.bashrc文件里,将cuda和cudnn添加环境变量,从而覆盖原先的cuda
-   export PATH="$HOME/.vocal/bin/cuda-10.2/bin:$PATH"
+   export PATH="$HOME/.vocal/cudas/cuda_10.2.89_440.33.01/bin:$PATH"
    # 把cuda的动态链接库加入环境变量，不然只能调用自己的cuda可执行文件，但是对应的库找不到
-   export LD_LIBRARY_PATH="$HOME/.vocal/bin/cuda-10.2/lib64"
+   export LD_LIBRARY_PATH="$HOME/.vocal/cudas/cuda_10.2.89_440.33.01/lib64"
    ```
 
 1. 通过第一步确定的cudnn版本，安装对应版本的cudnn
@@ -59,11 +63,11 @@
 
    > 下面这一步，如果遇到问题了，再继续进行。如果没遇到问题就不用管:
    >
-   > 注意：如果之前 cudnn 的`include`子文件夹里面包含`so.7`结尾的文件(比如`libcudnn.so.7`)，需要将这些移动后的文件位置(对应于`$HOME/.vocal/cuda-10.2/include/libcudnn.so.7`)创建软连接到`$HOME/.vocal/bin/cuda-10.2/lib64/libcudnn.so.7`。不然有可能依然报错说找不到`libcudnn.so.7`。也就是说，`libcudnn.so.7`这个需要`include`文件夹和`lib`文件夹都有一份。具体原因没有再研究过了。
+   > 注意：如果之前 cudnn 的`include`子文件夹里面包含`so.7`结尾的文件(比如`libcudnn.so.7`)，需要将这些移动后的文件位置(对应于`$HOME/.vocal/cudas/cuda_10.2.89_440.33.01/include/libcudnn.so.7`)创建软连接到`$HOME/.vocal/cuda_10.2.89_440.33.01/lib64/libcudnn.so.7`。不然有可能依然报错说找不到`libcudnn.so.7`。也就是说，`libcudnn.so.7`这个需要`include`文件夹和`lib`文件夹都有一份。具体原因没有再研究过了。
 
    后面如果需要多个版本的cuda和cudnn:
    - 方案1: 只需要改一下`~/.bashrc`里面的`$PATH`和`$LD_LIBRARY_PATH`，再重启一下bash。
-   - 方案2: 直接把指定`$PATH`在前面附加成通用的`~/.vocal/bin/cuda`，然后通过软连接的方式，任意把某个cuda版本链接到`~/.vocal/bin/cuda`
+   - 方案2: 直接把指定`$PATH`在前面附加成通用的`~/.vocal/cuda`，然后通过软连接的方式，任意把某个cuda版本链接到`~/.vocal/cuda`
 
 ## Linux 内核版本更新导致nvidia驱动挂了
 
