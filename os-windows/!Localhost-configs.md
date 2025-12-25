@@ -1,4 +1,4 @@
-# [os-win] Localhost configs
+# [os-windows] Localhost configs
 
 `~/.config/alacritty/alacritty.localhost.toml`
 

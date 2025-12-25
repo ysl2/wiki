@@ -1,4 +1,4 @@
-# [os-win] Home
+# [os-windows] Home
 
 ## Activate windows11 (might also work for windows10, not tested)
 

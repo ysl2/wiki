@@ -1,4 +1,4 @@
-# [os-deb] Home
+# [os-debian] Home
 
 ```bash
 # Remove conflicting files for `~/.profile`.
