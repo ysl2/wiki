@@ -1,9 +1,11 @@
 aerospace
 alt-tab
 baidunetdisk
+balenaetcher
 bitwarden
 clash-party
 cursorcerer
+firefox
 font-fira-code-nerd-font
 gimp
 keycastr

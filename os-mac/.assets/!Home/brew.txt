@@ -10,11 +10,13 @@ fd
 ffmpeg
 fzf
 gcc
+gemini-cli
 gh
 gnu-sed
 go
 imagemagick
 lf
+mole
 ncdu
 node
 pngpaste
