@@ -36,10 +36,11 @@ For firefox, `ctrl + shift + 6`:
 ```bash
 # For zathura in vimtex
 # Ref: https://github.com/zegervdv/homebrew-zathura?tab=readme-ov-file#osx_native_integration
-brew install girara --HEAD
-brew install zathura --HEAD
+brew tap homebrew-zathura/zathura
+brew install zathura --with-synctex
+brew install zathura-pdf-mupdf
 mkdir -p $(brew --prefix zathura)/lib/zathura
-ln -s $(brew --prefix zathura-pdf-poppler)/libpdf-poppler.dylib $(brew --prefix zathura)/lib/zathura/libpdf-poppler.dylib
+ln -s $(brew --prefix zathura-pdf-mupdf)/libpdf-mupdf.dylib $(brew --prefix zathura)/lib/zathura/libpdf-mupdf.dylib
 ```
 
 ### xelatex
