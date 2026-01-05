@@ -1,22 +1,48 @@
 # [study-ai] Home
 
+| URL                                                                             | Description |
+| ------------------------------------------------------------------------------- | ----------- |
+| ⭐<https://arxiv.org/list/cs.CV/new>                                            | Today       |
+| ⭐<https://arxiv.org/catchup/cs.CV/2026-01-01?abs=True>                         | One day     |
+| ⭐<https://arxiv.org/list/cs.CV/recent?show=1000>                               | This week   |
+| ⭐<https://arxiv.org/list/cs.CV/2026-01>                                        | One month   |
+| ⭐<https://arxiv.org/search/?query=vggt&searchtype=all&size=200&abstracts=show> | One field   |
+| ⭐<https://arxiv.org/search/advanced>                                           | Search      |
+| ⭐<https://openreview.net>                                                      |             |
+
+| URL                                                   | Description             |
+| ----------------------------------------------------- | ----------------------- |
+| ⭐<https://www.paperdigest.org/arxiv/>                | For daily arxiv papers. |
+| <https://www.paperdigest.org/review/>                 |                         |
+| <https://www.paperdigest.org/digest/>                 |                         |
+| <https://www.paperdigest.org/copilot/>                |                         |
+| <https://www.paperdigest.org/search/>                 |                         |
+| <https://www.paperdigest.org/research/?evidence=true> |                         |
+| <https://www.paperdigest.org/reader/>                 |                         |
+| <https://www.paperdigest.org/writer/>                 |                         |
+| <https://www.paperdigest.org/rewriter/>               |                         |
+| <https://resources.paperdigest.org/>                  |                         |
+
 | URL                                                            | Description                                                                                                                                                                                                                                                                                         |
 | -------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ⭐<https://chatpaper.com>                                      | For searching older arxiv papers.                                                                                                                                                                                                                                                                   |
+| ⭐<https://huggingface.co/papers/trending>                     | For trending papers.                                                                                                                                                                                                                                                                                |
+| ⭐<https://chinarxiv.chatpaper.top/>                           | ChinArXiv论文翻译器                                                                                                                                                                                                                                                                                 |
+| <https://hjfy.top/>                                            | 幻觉翻译                                                                                                                                                                                                                                                                                            |
+| <https://huggingface.co/papers>                                |                                                                                                                                                                                                                                                                                                     |
 | <https://papers.cool>                                          | Immersive Paper Discovery                                                                                                                                                                                                                                                                           |
-| <https://huggingface.co/papers>                                | Daily Papers                                                                                                                                                                                                                                                                                        |
-| <https://huggingface.co/papers/trending>                       |                                                                                                                                                                                                                                                                                                     |
-| <https://github.com/bytedance/pasa> / <https://pasa-agent.ai/> | PaSa -- an advanced paper search agent powered by large language models. It can autonomously make a series of decisions, including invoking search tools, reading papers, and selecting relevant references, to ultimately obtain comprehensive and accurate results for complex scholarly queries. |
 | <https://www.connectedpapers.com/>                             |                                                                                                                                                                                                                                                                                                     |
 | <https://www.semanticscholar.org/>                             |                                                                                                                                                                                                                                                                                                     |
 | <https://scholar.google.com/>                                  |                                                                                                                                                                                                                                                                                                     |
 | <https://github.com/trending>                                  | See what the GitHub community is most excited about today.                                                                                                                                                                                                                                          |
-| <https://github.com/kaixindelele/2025-Awesome-AI-Bloggers>     | 全网最全-2025年AI领域最值得关注的两百位博主和一手信息源盘点                                                                                                                                                                                                                                         |
+| <https://github.com/bytedance/pasa> / <https://pasa-agent.ai/> | PaSa -- an advanced paper search agent powered by large language models. It can autonomously make a series of decisions, including invoking search tools, reading papers, and selecting relevant references, to ultimately obtain comprehensive and accurate results for complex scholarly queries. |
+| <https://dw-dengwei.github.io/daily-arXiv-ai-enhanced>         |                                                                                                                                                                                                                                                                                                     |
 | <https://modelscope.cn>                                        |                                                                                                                                                                                                                                                                                                     |
+| <https://github.com/kaixindelele/2025-Awesome-AI-Bloggers>     | 全网最全-2025年AI领域最值得关注的两百位博主和一手信息源盘点                                                                                                                                                                                                                                         |
 
 | URL                                    | Description                                                                 |
 | -------------------------------------- | --------------------------------------------------------------------------- |
 | <https://lmarena.ai/leaderboard>       | See how leading models stack up across text, image, vision, and beyond.     |
-| <https://beta.lmarena.ai/leaderboard>  | Leaderboard Overview                                                        |
 | <https://scale.com/leaderboard>        | SEAL LLM Leaderboards evaluate frontier LLM capabilities.                   |
 | <https://llm-stats.com>                | Analyze and compare AI models across benchmarks, pricing, and capabilities. |
 | <https://livebench.ai>                 | A Challenging, Contamination-Free LLM Benchmark                             |
@@ -60,7 +86,6 @@
 | <https://github.com/Mintplex-Labs/anything-llm>     | The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility, and more.                                                                                                                                                                                         |
 | <https://github.com/chatboxai/chatbox>              | User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)                                                                                                                                                                                                                                     |
 | <https://github.com/CherryHQ/cherry-studio>         | 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.                                                                                                                                                                                                                                           |
-| <https://github.com/anthropics/claude-code>         | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.                                                                         |
 | <https://github.com/PromtEngineer/localGPT>         | Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.                                                                                                                                                                                                             |
 | <https://github.com/1Panel-dev/MaxKB>               | 💬 MaxKB is an open-source AI assistant for enterprise. It seamlessly integrates RAG pipelines, supports robust workflows, and provides MCP tool-use capabilities.                                                                                                                                                       |
 | <https://github.com/QwenLM/qwen-code>               | qwen-code is a coding agent that lives in digital world.                                                                                                                                                                                                                                                                 |
@@ -69,26 +94,43 @@
 | <https://github.com/jd-opensource/joyagent-jdgenie> | 开源的端到端产品级通用智能体                                                                                                                                                                                                                                                                                             |
 | <https://github.com/ErlichLiu/DeepClaude>           | Unleash Next-Level AI! 🚀 💻 Code Generation: DeepSeek r1 + Claude 3.7 Sonnet - Unparalleled Performance! 📝 Content Creation: DeepSeek r1 + Gemini 2.5 Pro - Superior Quality! 🔌 OpenAI-Compatible. 🌊 Streaming & Non-Streaming Support. ✨ Experience the Future of AI – Today! Click to Try Now!                    |
 |                                                     |                                                                                                                                                                                                                                                                                                                          |
-| <https://yuanbao.tencent.com>                       |                                                                                                                                                                                                                                                                                                                          |
+| <https://gpt-oss.com>                               |                                                                                                                                                                                                                                                                                                                          |
 | <https://www.doubao.com>                            |                                                                                                                                                                                                                                                                                                                          |
 | <https://www.tongyi.com>                            |                                                                                                                                                                                                                                                                                                                          |
 | <https://www.kimi.com>                              |                                                                                                                                                                                                                                                                                                                          |
 | <https://www.deepseek.com>                          |                                                                                                                                                                                                                                                                                                                          |
+| <https://bigmodel.cn/>                              |                                                                                                                                                                                                                                                                                                                          |
+| <https://yuanbao.tencent.com>                       |                                                                                                                                                                                                                                                                                                                          |
 | <https://ima.qq.com>                                |                                                                                                                                                                                                                                                                                                                          |
-| <https://gpt-oss.com>                               |                                                                                                                                                                                                                                                                                                                          |
-|                                                     |                                                                                                                                                                                                                                                                                                                          |
-| <https://cursor.com>                                |                                                                                                                                                                                                                                                                                                                          |
-| <https://www.trae.cn>                               |                                                                                                                                                                                                                                                                                                                          |
-| <https://copilot.tencent.com>                       |                                                                                                                                                                                                                                                                                                                          |
-| <https://kiro.dev>                                  |                                                                                                                                                                                                                                                                                                                          |
-| <https://www.codebuddy.ai>                          |                                                                                                                                                                                                                                                                                                                          |
-| <https://windsurf.com>                              |                                                                                                                                                                                                                                                                                                                          |
 | <https://yuanqi.tencent.com>                        |                                                                                                                                                                                                                                                                                                                          |
 
-| URL                                     | Description |
-| --------------------------------------- | ----------- |
-| <https://siliconflow.cn>                |             |
-| <https://laozhang.ai>                   |             |
-| <https://www.closechat.org>             |             |
-| <https://erlich.fun/deepclaude-pricing> |             |
-| <https://gpt.zhizengzeng.com>           |             |
+| URL                                         | Type                    | Github stars |
+| ------------------------------------------- | ----------------------- | ------------ |
+| <https://github.com/anomalyco/opencode>     | App/CLI/Plugin          | 76.8k        |
+| <https://github.com/openai/codex>           | Web/CLI/Plugin          | 56.5k        |
+| <https://github.com/anthropics/claude-code> | Web/CLI/Plugin          | 57.9k        |
+| <https://github.com/cline/cline>            | Extension               | 57k          |
+| <https://github.com/Kilo-Org/kilocode>      | Extension (VSCode only) | 14.2k        |
+| <https://cursor.com>                        | IDE                     |              |
+| <https://windsurf.com>                      | IDE/Extension           |              |
+| <https://www.trae.ai>                       | IDE/Extension           |              |
+| <https://www.trae.cn/>                      | IDE/Extension           |              |
+| <https://kiro.dev>                          | IDE/CLI                 |              |
+| <https://www.codebuddy.ai>                  | IDE/CLI                 |              |
+| <https://qoder.com>                         | IDE/CLI/Plugin          |              |
+| <https://www.augmentcode.com/>              | CLI/Plugin              |              |
+
+| URL                                     |
+| --------------------------------------- |
+| <https://siliconflow.cn>                |
+| <https://anyrouter.top>                 |
+| <https://laozhang.ai>                   |
+| <https://gpt.zhizengzeng.com>           |
+| <https://code.wenwen-ai.com/>           |
+| <https://www.aicodemirror.com>          |
+| <https://qinzhiai.com/>                 |
+| <https://yunwu.ai>                      |
+| <https://www.closechat.org>             |
+| <https://erlich.fun/deepclaude-pricing> |
+| <https://ai.ll9e.cn>                    |
+| <http://api.code-relay.com/>            |
