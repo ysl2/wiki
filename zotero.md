@@ -2,6 +2,8 @@
 
 <p><img src=".assets/zotero/img/2025-09-16-17-24-44.png" alt="" width=100% style="display: block; margin: auto;"></p>
 
+<p><img src=".assets/zotero/img/2026-01-06-19-16-41.png" alt="" width=100% style="display: block; margin: auto;"></p>
+
 | URL                                                  | Description                                                                                                               |
 | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | <https://github.com/syt2/zotero-addons>              | Zotero Add-on Market \| Zotero插件市场 \| Browsing, installing, and reviewing plugins within Zotero                       |
