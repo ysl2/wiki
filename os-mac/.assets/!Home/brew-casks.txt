@@ -3,12 +3,15 @@ alt-tab
 baidunetdisk
 balenaetcher
 bitwarden
+cc-switch
 clash-party
+claude-code
 cursorcerer
 firefox
 font-fira-code-nerd-font
 gimp
 keycastr
+losslesscut
 mactex
 miniforge
 obsidian
@@ -17,6 +20,7 @@ raycast
 scroll-reverser
 snipaste
 stolendata-mpv
+telegram
 ths
 tradingview
 typora

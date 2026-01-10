@@ -1,6 +1,9 @@
+anomalyco/tap
 chenrui333/tap
+farion1231/ccswitch
 felixkratz/formulae
 homebrew-zathura/zathura
 lihaoyun6/tap
 nikitabobko/tap
+oven-sh/bun
 zkondor/dist

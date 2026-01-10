@@ -4,7 +4,9 @@ bash
 bob
 borders
 bottom
+bun
 chafa
+cloudflared
 fastfetch
 fd
 ffmpeg
@@ -16,9 +18,11 @@ gnu-sed
 go
 imagemagick
 lf
+marp-cli
 mole
 ncdu
 node
+opencode
 pngpaste
 reattach-to-user-namespace
 redshift
@@ -34,4 +38,3 @@ uv
 wget
 zathura
 zathura-pdf-mupdf
-zathura-pdf-poppler
