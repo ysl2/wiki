@@ -32,18 +32,6 @@ yay -S neovim-symlinks
 
 设置 chrome 的 theme 为 GTK+，在浏览器设置里有
 
-## vscode
-
-解决二次登录问题，参考[这里](https://github.com/microsoft/vscode/issues/92972#issuecomment-608572519)，注意 keyring 一定要设置为空（就是什么都不输入）
-
-如果一不小心输了密码，后面每次登录都要输入密码
-
-解决这个问题的方法：直接删除 keyring 然后重新上面的操作
-
-keyring 的位置：`~/.local/share/keyrings/`
-
-隐藏菜单栏：命令面板搜索 toogle menu bar
-
 ## ranger
 
 取消标签:
@@ -214,7 +202,7 @@ unzip -O gb2312 xxx.zip
 
     ```text
     grnl-zsh-config
-    
+
     zoxide — cd
     tig — git
     firenvim — browser vim
@@ -532,11 +520,11 @@ https://vpn.wh.sdu.edu.cn
         {     "name":"Sci-Hub",     "method":"GET",     "url":"https://sci-hubtw.hkvisa.net/{doi}",     "mode":"html",     "selector":"#pdf",     "attribute":"src",     "automatic":true }
     ```
     ![image_2021-07-06-18-34-31](assets/05-package-configuration/image_2021-07-06-18-34-31.png)
-    
+
     ![image_2021-07-06-18-34-47](assets/05-package-configuration/image_2021-07-06-18-34-47.png)
-    
+
     ![image_2021-07-06-18-34-58](assets/05-package-configuration/image_2021-07-06-18-34-58.png)
-    
+
 1. 安装ZotFile插件(和其他插件)
 
     > 此插件的原地址（下载RELEASE）：https://github.com/jlegewie/zotfile
