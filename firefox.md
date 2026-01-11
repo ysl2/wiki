@@ -10,6 +10,14 @@
 
 <p><img src=".assets/firefox/img/2025-12-25-10-04-21.png" alt="" width=100% style="display: block; margin: auto;"></p>
 
+## Disable firefox auto hide bar when in fullscreen
+
+> Ref: https://www.reddit.com/r/i3wm/comments/edd5fx/comment/fbh2nny/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+
+`about:config`
+
+`browser.fullscreen.autohide`
+
 ## Uninstall firefox snap on ubuntu and install from mozilla ppa
 
 1. Remove Firefox Snap
