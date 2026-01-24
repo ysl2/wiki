@@ -71,6 +71,7 @@
 | <https://geminicli.com/>             |
 | <https://colab.research.google.com/> |
 | <http://drive.google.com/>           |
+| <https://antigravity.google/>        |
 
 | URL                                                 | Description                                                                                                                                                                                                                                                                                                              |
 | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -99,26 +100,34 @@
 | <https://www.tongyi.com>                            |                                                                                                                                                                                                                                                                                                                          |
 | <https://www.kimi.com>                              |                                                                                                                                                                                                                                                                                                                          |
 | <https://www.deepseek.com>                          |                                                                                                                                                                                                                                                                                                                          |
-| <https://bigmodel.cn/>                              |                                                                                                                                                                                                                                                                                                                          |
 | <https://yuanbao.tencent.com>                       |                                                                                                                                                                                                                                                                                                                          |
 | <https://ima.qq.com>                                |                                                                                                                                                                                                                                                                                                                          |
 | <https://yuanqi.tencent.com>                        |                                                                                                                                                                                                                                                                                                                          |
 
-| URL                                         | Type                    | Github stars |
-| ------------------------------------------- | ----------------------- | ------------ |
-| <https://github.com/anomalyco/opencode>     | App/CLI/Plugin          | 76.8k        |
-| <https://github.com/openai/codex>           | Web/CLI/Plugin          | 56.5k        |
-| <https://github.com/anthropics/claude-code> | Web/CLI/Plugin          | 57.9k        |
-| <https://github.com/cline/cline>            | Extension               | 57k          |
-| <https://github.com/Kilo-Org/kilocode>      | Extension (VSCode only) | 14.2k        |
-| <https://cursor.com>                        | IDE                     |              |
-| <https://windsurf.com>                      | IDE/Extension           |              |
-| <https://www.trae.ai>                       | IDE/Extension           |              |
-| <https://www.trae.cn/>                      | IDE/Extension           |              |
-| <https://kiro.dev>                          | IDE/CLI                 |              |
-| <https://www.codebuddy.ai>                  | IDE/CLI                 |              |
-| <https://qoder.com>                         | IDE/CLI/Plugin          |              |
-| <https://www.augmentcode.com/>              | CLI/Plugin              |              |
+| URL                                              | Type                    | Github stars |
+| ------------------------------------------------ | ----------------------- | ------------ |
+| <https://github.com/anomalyco/opencode>          | App/CLI/Plugin          | 76.8k        |
+| <https://github.com/openai/codex>                | Web/CLI/Plugin          | 56.5k        |
+| <https://github.com/anthropics/claude-code>      | Web/CLI/Plugin          | 57.9k        |
+| <https://github.com/cline/cline>                 | Extension               | 57k          |
+| <https://github.com/clawdbot/clawdbot>           | Full system access      | 50.8k        |
+| <https://github.com/Kilo-Org/kilocode>           | Extension (VSCode only) | 14.2k        |
+| <https://github.com/DevAgentForge/Claude-Cowork> | Full desktop access     | 2.5k         |
+| <https://cursor.com>                             | IDE                     |              |
+| <https://windsurf.com>                           | IDE/Extension           |              |
+| <https://www.trae.ai>                            | IDE/Extension           |              |
+| <https://www.trae.cn/>                           | IDE/Extension           |              |
+| <https://kiro.dev>                               | IDE/CLI                 |              |
+| <https://www.codebuddy.ai>                       | IDE/CLI                 |              |
+| <https://qoder.com>                              | IDE/CLI/Plugin          |              |
+| <https://www.augmentcode.com/>                   | CLI/Plugin              |              |
+
+| URL                                                     |
+| ------------------------------------------------------- |
+| <https://bigmodel.cn/usercenter/proj-mgmt/apikeys>      |
+| <https://docs.bigmodel.cn/cn/coding-plan/overview>      |
+| <https://docs.bigmodel.cn/cn/coding-plan/tool/claude>   |
+| <https://docs.bigmodel.cn/cn/coding-plan/tool/opencode> |
 
 | URL                                     |
 | --------------------------------------- |
@@ -134,3 +143,4 @@
 | <https://erlich.fun/deepclaude-pricing> |
 | <https://ai.ll9e.cn>                    |
 | <http://api.code-relay.com/>            |
+| <https://api.1youth.me/>                |
