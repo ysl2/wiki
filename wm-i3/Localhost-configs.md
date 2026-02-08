@@ -18,7 +18,7 @@ feh --bg-fill /usr/share/desktop-base/emerald-theme/wallpaper/contents/images/25
 # feh --bg-fill ~/Pictures/flowers.jpg
 # swaybg -i ~/Pictures/wall.png -m fill
 fcitx5 -d -r
-udiskie --no-automount --no-notify --tray &
+udiskie -A -N -t &
 # cfw &
 # NOTE: For horizontal scrolling firefox page.
 # Ref: https://askubuntu.com/a/407233
