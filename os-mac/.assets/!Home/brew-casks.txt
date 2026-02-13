@@ -6,6 +6,7 @@ bitwarden
 cc-switch
 clash-party
 claude-code
+codex
 cursorcerer
 firefox
 font-fira-code-nerd-font
