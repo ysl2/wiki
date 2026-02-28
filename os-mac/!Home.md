@@ -75,6 +75,8 @@ rustup-init
 
 <p><img src=".assets/!Home/img/2025-07-09-22-55-03.png" alt="" width=75% style="display: block; margin: auto;"></p>
 
+<p><img src=".assets/!Home/img/2026-02-28_16-09-46.png" alt="" width=75% style="display: block; margin: auto;"></p>
+
 <p><img src=".assets/!Home/img/2025-07-09-22-56-24.png" alt="" width=75% style="display: block; margin: auto;"></p>
 
 <p><img src=".assets/!Home/img/2025-10-11-16-50-04.png" alt="" width=75% style="display: block; margin: auto;"></p>
@@ -125,11 +127,11 @@ rustup-init
 
 ### [bob](https://bobtranslate.com/)
 
-<p><img src=".assets/!Home/img/2025-09-21-14-57-10.png" alt="" width=75% style="display: block; margin: auto;"></p>
+<p><img src=".assets/!Home/img/2026-02-28-19-17-33.png" alt="" width=75% style="display: block; margin: auto;"></p>
 
 <p><img src=".assets/!Home/img/2025-09-21-14-57-29.png" alt="" width=75% style="display: block; margin: auto;"></p>
 
-<p><img src=".assets/!Home/img/2025-09-21-14-58-11.png" alt="" width=75% style="display: block; margin: auto;"></p>
+<p><img src=".assets/!Home/img/2026-02-28_16-50-57.png" alt="" width=75% style="display: block; margin: auto;"></p>
 
 <p><img src=".assets/!Home/img/2025-09-21-15-02-00.png" alt="" width=75% style="display: block; margin: auto;"></p>
 
