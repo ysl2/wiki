@@ -13,10 +13,15 @@ sudo apt install zathura
 > Ref: <https://github.com/homebrew-zathura/homebrew-zathura>
 
 ```bash
+# For zathura in vimtex
+# Ref: https://github.com/zegervdv/homebrew-zathura?tab=readme-ov-file#osx_native_integration
 brew tap homebrew-zathura/zathura
 brew install zathura --with-synctex
-brew install zathura-pdf-mupdf zathura-pdf-poppler
-d=$(brew --prefix zathura)/lib/zathura ; mkdir -p $d ; for n in cb djvu pdf-mupdf pdf-poppler ps ; do p=$(brew --prefix zathura-$n)/lib$n.dylib ; [[ -f $p ]] && ln -s $p $d ; done
+# brew install zathura-pdf-mupdf zathura-pdf-poppler
+# d=$(brew --prefix zathura)/lib/zathura ; mkdir -p $d ; for n in cb djvu pdf-mupdf pdf-poppler ps ; do p=$(brew --prefix zathura-$n)/lib$n.dylib ; [[ -f $p ]] && ln -s $p $d ; done
+brew install zathura-pdf-mupdf
+mkdir -p $(brew --prefix zathura)/lib/zathura
+ln -s $(brew --prefix zathura-pdf-mupdf)/libpdf-mupdf.dylib $(brew --prefix zathura)/lib/zathura/libpdf-mupdf.dylib
 ```
 
 ## Set it to fullscreen

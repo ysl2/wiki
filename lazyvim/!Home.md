@@ -33,16 +33,6 @@ For firefox, `ctrl + shift + 6`:
 
 ## vimtex
 
-```bash
-# For zathura in vimtex
-# Ref: https://github.com/zegervdv/homebrew-zathura?tab=readme-ov-file#osx_native_integration
-brew tap homebrew-zathura/zathura
-brew install zathura --with-synctex
-brew install zathura-pdf-mupdf
-mkdir -p $(brew --prefix zathura)/lib/zathura
-ln -s $(brew --prefix zathura-pdf-mupdf)/libpdf-mupdf.dylib $(brew --prefix zathura)/lib/zathura/libpdf-mupdf.dylib
-```
-
 ### xelatex
 
 The default latex compiler is latexmk, the default compile engine is pdflatex.
