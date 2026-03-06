@@ -10,3 +10,24 @@ openclaw browser extension path
 ```
 
 Enable chrome's developer mode, and add the path above into chrome extensions page.
+
+## Add web_search support
+
+```bash
+openclaw configure --section web
+# Then, enter the brave search api key.
+```
+
+## Add full access
+
+`nvim ~/.openclaw/openclaw.json`
+
+```json
+{
+  ...
+  "tools": {
+    "profile": "full"
+  },
+  ...
+}
+```
