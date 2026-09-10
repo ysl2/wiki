@@ -1,6 +1,8 @@
 # [os-windows] Home
 
-## Activate windows11 (might also work for windows10, not tested)
+## 1. Activation
+
+> might also work for windows10, not tested
 
 1. Right press the windows icon, select "Terminal (Admin)".
 1. Run the following command:
@@ -12,38 +14,81 @@
 1. Press `1` to activate Windows.
 1. Double press `0` to exit.
 
-## Installation on Windows
+## 2. Installation
 
-### dotfiles
+### 2.1 Dotfiles
 
 ```powershell
 # NOTE:
-# 1. You should open the `Developer Mode` item in Windows `Settings -> Update & Security -> Developer
+# 1. You should open the `Developer Mode` item in Windows `Settings -> System (or Update & Security) -> Developer
 # 2. Don't use administrator terminal, instead, use your normal terminal.
-git clone -c core.symlinks=true git@github.com:ysl2/.dotfiles.git
-git clone -c core.symlinks=true git@github.com:ysl2/.dotlinks.git -b windows
+git clone -c core.symlinks=true git@github.com:ysl2/dotfiles.git .dotfiles
+git clone -c core.symlinks=true git@github.com:ysl2/dotlinks.git -b windows
 ```
 
-### Special packages
+### 2.2 Basic window manager environment
 
-```bash
-# Don't use this to install texlive, instead, install it manually by local install.
-# Ref: https://github.com/ysl2/.dotfiles/issues/34
-choco install texlive --params="'/scheme:full'"
-choco install ntop.portable
+```powershell
+# NOTE: Manually install github release windows terminal
+# https://github.com/microsoft/terminal
 
-# Update: don't use conda, instead, use original python
-# That's beacuse you might encounter the SSL problem, annoying :-<
-choco install miniconda3
-# Add to PATH:
-# C:\tools\miniconda3
-# C:\tools\miniconda3\Scripts
+# NOTE: Manually install hyoi (widows version of yoink)
+# https://github.com/hibara/Hyoi
 
-# Cmake
-# Add to PATH: C:\Program Files\CMake\bin
+choco install -y glazewm yasb python3 flow-launcher snipaste
+pip install websockets
+choco install -y yazi lazygit vim nvim starship
 ```
 
-### Other packages
+#### sharpkeys
+
+Set `L_Alt` to `F13` beacuse we currently use `F13` as the `Super` key in glazewm. Beacuse some software (like `WPS`) will trigger `L_Alt`, so we need to remap `L_Alt` to `F13` to avoid conflict. You can use `SharpKeys` to do this:
+
+<p><img src=".assets/!Home/img/2026-09-16-11-15-29.png" alt="" width=75% style="display: block; margin: auto;"></p>
+
+#### flow-launcher
+
+<p><img src=".assets/!Home/img/2026-09-16-11-13-46.png" alt="" width=75% style="display: block; margin: auto;"></p>
+
+### 2.3 Special packages
+
+- texlive
+
+  ```powershell
+  # Don't use this to install texlive, instead, install it manually by local install.
+  # Ref: https://github.com/ysl2/.dotfiles/issues/34
+  choco install texlive --params="'/scheme:full'"
+  ```
+
+- miniconda3
+
+  ```powershell
+  # Update: don't use conda, instead, use original python
+  # That's beacuse you might encounter the SSL problem, annoying :-<
+  choco install miniconda3
+  # Add to PATH:
+  # C:\tools\miniconda3
+  # C:\tools\miniconda3\Scripts
+  ```
+
+- cmake:
+
+  ```powershell
+  # Add to PATH: `C:\Program Files\CMake\bin`
+  ```
+
+- codex
+
+  ```powershell
+  pwsh -NoProfile -ExecutionPolicy Bypass -Command "irm https://chatgpt.com/codex/install.ps1 | iex"
+  ```
+
+- WSL2
+  - Install wsl2 by choco as above.
+  - Install arch by: <https://github.com/yuk7/ArchWSL>
+  - Configure arch by: <https://github.com/ysl2/.dotfiles/issues/84>
+
+### 2.4 Other packages
 
 ```powershell
 ❯ choco list
@@ -134,36 +179,32 @@ yazi 25.3.2
 
    You need to set system variable `EDITOR` to vim (or any other editor), and link neovide to `notepad.exe` to replace default notepad (optional). Use vim to edit single file by pressing `e` key, and use neovim to edit project by pressing `l` key (I tried to inverse those two behavior but failed, so must be this at least now).
 
-## WSL2
+<!-- ## Installation on AI Studio -->
+<!---->
+<!-- ```bash -->
+<!-- # First enter project: -->
+<!-- cd -->
+<!-- git clone https://gitee.com/ysl2/dotlib.git -->
+<!-- git clone https://gitee.com/ysl2/dotfiles.git -->
+<!-- mv dotfiles/.git dotfiles_git -->
+<!-- ln -s dotfiles_git .git -->
+<!-- ln -s dotlib .dotlib -->
+<!-- ~/.scripts/localbin.sh lf -->
+<!-- ~/.Local/bin/lf -config ~/.dotlib/.config/lf/lfrc  # Merge conflict files in $HOME ... -->
+<!-- rm -rf dotfiles -->
+<!-- source ~/.bashrc -->
+<!---->
+<!-- # Restore project: -->
+<!-- cd -->
+<!-- ln -s dotfiles_git .git -->
+<!-- ln -s dotlib .dotlib -->
+<!-- git reset --hard HEAD -->
+<!-- source ~/.bashrc -->
+<!-- ``` -->
 
-1. Install wsl2 by choco as above.
-1. Install arch by: <https://github.com/yuk7/ArchWSL>
-1. Configure arch by: <https://github.com/ysl2/.dotfiles/issues/84>
+## 3. Configuration
 
-## Installation on AI Studio
-
-```bash
-# First enter project:
-cd
-git clone https://gitee.com/ysl2/dotlib.git
-git clone https://gitee.com/ysl2/dotfiles.git
-mv dotfiles/.git dotfiles_git
-ln -s dotfiles_git .git
-ln -s dotlib .dotlib
-~/.scripts/localbin.sh lf
-~/.Local/bin/lf -config ~/.dotlib/.config/lf/lfrc  # Merge conflict files in $HOME ...
-rm -rf dotfiles
-source ~/.bashrc
-
-# Restore project:
-cd
-ln -s dotfiles_git .git
-ln -s dotlib .dotlib
-git reset --hard HEAD
-source ~/.bashrc
-```
-
-## 解决中英文输入法问题
+### 3.1 解决中英文输入法问题
 
 <img src=".assets/!Home/img/2025-07-13-11-06-52.png" alt="" width=100%>
 
@@ -171,11 +212,11 @@ source ~/.bashrc
 
 <img src=".assets/!Home/img/2025-07-13-11-07-53.png" alt="" width=100%>
 
-## Cursor speed
+### 3.2 Cursor speed
 
 <img src=".assets/!Home/img/2025-07-13-11-08-15.png" alt="" width=100%>
 
-## Windows disable WIN+L
+### 3.3 Windows disable WIN+L
 
 > Ref: <https://superuser.com/questions/1059511/how-to-disable-winl-in-windows-10>
 
