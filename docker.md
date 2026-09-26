@@ -2,12 +2,12 @@
 
 ## Installation
 
-- For Linux, by brew (Not recommend for macOS. Use `by colima` below)
-
-  ```bash
-  brew install --cask docker
-  ```
-
+<!-- - For Linux, by brew (Not recommend for macOS. Use `by colima` below) -->
+<!---->
+<!--   ```bash -->
+<!--   brew install --cask docker -->
+<!--   ``` -->
+<!---->
 - For Linux, by apt
 
   ```bash
@@ -18,7 +18,8 @@
 
 ## Uninstallation
 
-- For Linux and macOS, by brew
+<!-- - For Linux and macOS, by brew -->
+- For macOS, by brew
 
   ```bash
   # Ref: https://github.com/docker/for-mac/issues/7046#issuecomment-2579215790
@@ -40,7 +41,7 @@
   # curl -SL "https://ghfast.top/https://github.com/docker/compose/releases/download/v2.33.0/docker-compose-$(uname -s)-$(uname -m)" -o $DOCKER_CONFIG/cli-plugins/docker-compose
   # chmod +x $DOCKER_CONFIG/cli-plugins/docker-compose
 
-  mkdir ~/.docker/cli-plugins
+  mkdir -p ~/.docker/cli-plugins
   curl -SL "https://github.com/docker/compose/releases/download/v5.1.3/docker-compose-linux-x86_64" -o ~/.docker/cli-plugins/docker-compose
   chmod +x ~/.docker/cli-plugins/docker-compose
 
@@ -102,7 +103,7 @@ sudo vim /etc/systemd/system/docker.service.d/http-proxy.conf
 [Service]
 Environment="HTTP_PROXY=http://127.0.0.1:7897"
 Environment="HTTPS_PROXY=http://127.0.0.1:7897"
-Environment="NO_PROXY=localhost,127.0.0.1"
+Environment="NO_PROXY=localhost,127.0.0.1,::1"
 ```
 
 ```bash
